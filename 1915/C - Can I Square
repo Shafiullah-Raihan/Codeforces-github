@@ -1,8 +1,81 @@
-<h3><a href="https://codeforces.com/contest/1915/problem/C" target="_blank" rel="noopener noreferrer">Can I Square?</a></h3>
-
-<div class="header"><div class="title">C. Can I Square?</div><div class="time-limit"><div class="property-title">time limit per test</div>1 second</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file input-standard"><div class="property-title">input</div>standard input</div><div class="output-file output-standard"><div class="property-title">output</div>standard output</div></div><div><p>Calin has $$$n$$$ buckets, the $$$i$$$-th of which contains $$$a_i$$$ wooden squares of side length $$$1$$$.</p><p>Can Calin build a square using <span class="tex-font-style-bf">all</span> the given squares?</p></div><div class="input-specification"><div class="section-title">Input</div><p>The first line contains a single integer $$$t$$$ ($$$1 \leq t \leq 10^4$$$) — the number of test cases.</p><p>The first line of each test case contains a single integer $$$n$$$ ($$$1 \leq n \leq 2 \cdot 10^5$$$) — the number of buckets.</p><p>The second line of each test case contains $$$n$$$ integers $$$a_1, \ldots, a_n$$$ ($$$1 \leq a_i \leq 10^9$$$) — the number of squares in each bucket.</p><p>The sum of $$$n$$$ over all test cases does not exceed $$$2 \cdot 10^5$$$.</p></div><div class="output-specification"><div class="section-title">Output</div><p>For each test case, output "<span class="tex-font-style-tt">YES</span>" if Calin can build a square using <span class="tex-font-style-bf">all</span> of the given $$$1 \times 1$$$ squares, and "<span class="tex-font-style-tt">NO</span>" otherwise.</p><p>You can output the answer in any case (for example, the strings "<span class="tex-font-style-tt">yEs</span>", "<span class="tex-font-style-tt">yes</span>", "<span class="tex-font-style-tt">Yes</span>" and "<span class="tex-font-style-tt">YES</span>" will be recognized as a positive answer).</p></div><div class="sample-tests"><div class="section-title">Example</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id001613410501930318" id="id003137585290028888" class="input-output-copier">Copy</div></div><pre id="id001613410501930318"><div class="test-example-line test-example-line-even test-example-line-0">5</div><div class="test-example-line test-example-line-odd test-example-line-1">1</div><div class="test-example-line test-example-line-odd test-example-line-1">9</div><div class="test-example-line test-example-line-even test-example-line-2">2</div><div class="test-example-line test-example-line-even test-example-line-2">14 2</div><div class="test-example-line test-example-line-odd test-example-line-3">7</div><div class="test-example-line test-example-line-odd test-example-line-3">1 2 3 4 5 6 7</div><div class="test-example-line test-example-line-even test-example-line-4">6</div><div class="test-example-line test-example-line-even test-example-line-4">1 3 5 7 9 11</div><div class="test-example-line test-example-line-odd test-example-line-5">4</div><div class="test-example-line test-example-line-odd test-example-line-5">2 2 2 2</div></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id005701529620867394" id="id0012972225263845816" class="input-output-copier">Copy</div></div><pre id="id005701529620867394">YES
-YES
-NO
-YES
-NO
-</pre></div></div></div><div class="note"><div class="section-title">Note</div><p>In the first test case, Calin can build a $$$3 \times 3$$$ square.</p><p>In the second test case, Calin can build a $$$4 \times 4$$$ square.</p><p>In the third test case, Calin cannot build a square using all the given squares.</p></div>
+///   ***   ---   ||         ALLAHU AKBAR        |||   ---   ***   ///
+ 
+ 
+ 
+#include<bits/stdc++.h>
+using namespace std;
+ 
+ 
+typedef long long ll;
+typedef vector<int> vi;
+typedef vector<ll> vl;
+typedef vector<vi> vvi;
+typedef vector<vl> vvl;
+typedef pair<int,int> pii;
+typedef pair<double, double> pdd;
+typedef pair<ll, ll> pll;
+typedef vector<pii> vii;
+typedef vector<pll> vll;
+typedef double dl;
+ 
+#define endl '
+'
+#define PB push_back
+#define F first
+#define S second
+#define all(a) (a).begin(),(a).end()
+#define rall(a) (a).rbegin(),(a).rend()
+#define sz(x) (int)x.size()
+#define nl cout<<endl
+ 
+const double PI = acos(-1);
+const double eps = 1e-9;
+const int inf = 2000000000;
+const ll infLL = 9000000000000000000;
+#define MOD 1000000007
+ 
+#define mem(a,b) memset(a, b, sizeof(a) )
+#define sqr(a) ((a) * (a))
+ 
+#define bismillah ios_base::sync_with_stdio(0);cin.tie(0);cout.tie(0);
+#define fraction() cout.unsetf(ios::floatfield); cout.precision(10); cout.setf(ios::fixed,ios::floatfield);
+#define file() freopen("input.txt","r",stdin);freopen("output.txt","w",stdout);
+ 
+ 
+ll gcd ( ll a, ll b ) { return __gcd ( a, b ); }
+ll lcm ( ll a, ll b ) { return a * ( b / gcd ( a, b ) ); }
+ 
+ 
+int dx[] = { 0, 0, +1, -1, -1,  +1, -1, +1 };
+int dy[] = { +1, -1, 0, 0, -1, +1, +1, -1 };
+ 
+ 
+ 
+ 
+int main()
+{
+    bismillah;
+    int T;cin>>T;
+    while(T--)
+    {
+       ll n;cin>>n;
+       ll sum=0;
+       for(ll i=0;i<n;i++){
+            ll a;cin>>a;
+            sum+=a;
+       }
+       ll sq = sqrt(sum);
+       if(sq*sq == sum){
+        cout<< "YES"<<endl;
+       }
+       else{
+        cout<< "NO"<<endl;
+       }
+    }
+ 
+ 
+ 
+ 
+    return 0;
+}
+ 
