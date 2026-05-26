@@ -1,0 +1,15 @@
+#include <bits/stdc++.h>
+using namespace std;
+ 
+int main() {
+    double speed, fuel, distance;
+    cin >> speed >> fuel >> distance;
+ 
+    double totalFuelNeeded = speed * distance;
+    double additionalFuel = totalFuelNeeded - (fuel * distance);
+ 
+    int refuels = ceil(additionalFuel / fuel);
+ 
+    cout << refuels << endl;
+    return 0;
+}
