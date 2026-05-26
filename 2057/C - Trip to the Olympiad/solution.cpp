@@ -1,0 +1,12 @@
+#include<iostream>
+ 
+int cas, l, r;
+int main() {
+	for (std::cin >> cas; cas--;) {
+		std::cin >> l >> r;
+		int k = std::__lg(l ^ r);
+		int sb = ((1<<k)|l&(-1u<<k));
+		std::cout << sb << ' ' << sb-1 << ' ' << (sb+1<=r?sb+1:sb-2) << '
+';
+	}
+}
