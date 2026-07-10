@@ -6,12 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 6 | 5 |
+| 7 | 7 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [brute force](#brute-force) (1)
+- [dp](#dp) (1)
 - [greedy](#greedy) (1)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (5)
@@ -19,6 +21,18 @@
 - [strings](#strings) (1)
 
 ---
+
+### brute force
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 22B | [Bargaining Table](https://codeforces.com/contest/22/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/22/B%20-%20Bargaining%20Table/solution.cpp) |
+
+### dp
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 22B | [Bargaining Table](https://codeforces.com/contest/22/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/22/B%20-%20Bargaining%20Table/solution.cpp) |
 
 ### greedy
 
