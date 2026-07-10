@@ -6,16 +6,23 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 2 |
+| 2 | 3 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [greedy](#greedy) (1)
 - [implementation](#implementation) (1)
 - [number theory](#number-theory) (1)
 
 ---
+
+### greedy
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 48D | [Permutations](https://codeforces.com/contest/48/problem/D) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/48/D%20-%20Permutations/solution.cpp) |
 
 ### implementation
 
