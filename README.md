@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 9 | 9 |
+| 10 | 9 |
 
 ---
 
@@ -18,7 +18,7 @@
 - [greedy](#greedy) (1)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (7)
-- [math](#math) (1)
+- [math](#math) (2)
 - [number theory](#number-theory) (1)
 - [strings](#strings) (1)
 
@@ -72,6 +72,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 11A | [Increasing Sequence](https://codeforces.com/contest/11/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/11/A%20-%20Increasing%20Sequence/solution.cpp) |
+| 11B | [Jumping Jack](https://codeforces.com/contest/11/problem/B) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/11/B%20-%20Jumping%20Jack/solution.cpp) |
 
 ### number theory
 
