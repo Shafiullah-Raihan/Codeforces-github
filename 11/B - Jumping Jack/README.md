@@ -1,0 +1,17 @@
+<h2><a href="https://codeforces.com/contest/11/problem/B" target="_blank" rel="noopener noreferrer">11B — Jumping Jack</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 1600 |
+| **Language** | C++23 (GCC 14-64, msys2) |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 11B](https://codeforces.com/contest/11/problem/B) |
+
+## Topics
+`math`
+
+---
+
+## Problem Statement
+
+<div class="header"><div class="title">B. Jumping Jack</div><div class="time-limit"><div class="property-title">time limit per test</div>1 second</div><div class="memory-limit"><div class="property-title">memory limit per test</div>64 megabytes</div><div class="input-file input-standard" style="font-weight: bold"><div class="property-title">input</div>stdin</div><div class="output-file output-standard" style="font-weight: bold"><div class="property-title">output</div>stdout</div></div><div><p>Jack is working on his jumping skills recently. Currently he's located at point zero of the number line. He would like to get to the point <span class="tex-span"><i>x</i></span>. In order to train, he has decided that he'll first jump by only one unit, and each subsequent jump will be exactly one longer than the previous one. He can go either left or right with each jump. He wonders how many jumps he needs to reach <span class="tex-span"><i>x</i></span>.</p></div><div class="input-specification"><div class="section-title">Input</div><p>The input data consists of only one integer <span class="tex-span"><i>x</i></span> (<span class="tex-span"> - 10<sup class="upper-index">9</sup> ≤ <i>x</i> ≤ 10<sup class="upper-index">9</sup></span>).</p></div><div class="output-specification"><div class="section-title">Output</div><p>Output the minimal number of jumps that Jack requires to reach <span class="tex-span"><i>x</i></span>.</p></div><div class="sample-tests"><div class="section-title">Examples</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id003435640250698453" id="id008564306392729606" class="input-output-copier">Copy</div></div><pre id="id003435640250698453">2<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id00300451996618994" id="id002982065479678243" class="input-output-copier">Copy</div></div><pre id="id00300451996618994">3<br></pre></div><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id00006514568187288239" id="id008703521824737809" class="input-output-copier">Copy</div></div><pre id="id00006514568187288239">6<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id009589553665218893" id="id008703202043753467" class="input-output-copier">Copy</div></div><pre id="id009589553665218893">3<br></pre></div><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id0049474542919617326" id="id005903179185036016" class="input-output-copier">Copy</div></div><pre id="id0049474542919617326">0<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id0043594574708111167" id="id002251479546158669" class="input-output-copier">Copy</div></div><pre id="id0043594574708111167">0<br></pre></div></div></div>
