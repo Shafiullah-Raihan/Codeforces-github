@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 18 | 12 |
+| 19 | 12 |
 
 ---
 
@@ -19,7 +19,7 @@
 - [geometry](#geometry) (1)
 - [greedy](#greedy) (1)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (14)
+- [implementation](#implementation) (15)
 - [math](#math) (4)
 - [number theory](#number-theory) (1)
 - [shortest paths](#shortest-paths) (1)
@@ -88,6 +88,7 @@
 | 29B | [Traffic Lights](https://codeforces.com/contest/29/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/29/B%20-%20Traffic%20Lights/solution.cpp) |
 | 35A | [Shell Game](https://codeforces.com/contest/35/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/35/A%20-%20Shell%20Game/solution.cpp) |
 | 36A | [Extra-terrestrial Intelligence](https://codeforces.com/contest/36/problem/A) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/36/A%20-%20Extra-terrestrial%20Intelligence/solution.cpp) |
+| 36B | [Fractal](https://codeforces.com/contest/36/problem/B) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/36/B%20-%20Fractal/solution.cpp) |
 | 39J | [Spelling Check](https://codeforces.com/contest/39/problem/J) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/39/J%20-%20Spelling%20Check/solution.cpp) |
 | 44B | [Cola](https://codeforces.com/contest/44/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/44/B%20-%20Cola/solution.cpp) |
 | 577A | [Multiplication Table](https://codeforces.com/contest/577/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/577/A%20-%20Multiplication%20Table/solution.cpp) |
