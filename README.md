@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 19 | 12 |
+| 20 | 13 |
 
 ---
 
@@ -23,6 +23,7 @@
 - [math](#math) (4)
 - [number theory](#number-theory) (1)
 - [shortest paths](#shortest-paths) (1)
+- [sortings](#sortings) (1)
 - [strings](#strings) (1)
 
 ---
@@ -113,6 +114,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 35C | [Fire Again](https://codeforces.com/contest/35/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/35/C%20-%20Fire%20Again/solution.cpp) |
+
+### sortings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 37A | [Towers](https://codeforces.com/contest/37/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/37/A%20-%20Towers/solution.cpp) |
 
 ### strings
 
