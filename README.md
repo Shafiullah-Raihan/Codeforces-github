@@ -6,18 +6,18 @@
 
 | Total Problems | Topics |
 |---|---|
-| 20 | 13 |
+| 21 | 13 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [brute force](#brute-force) (3)
-- [constructive algorithms](#constructive-algorithms) (2)
+- [constructive algorithms](#constructive-algorithms) (3)
 - [dfs and similar](#dfs-and-similar) (1)
-- [dp](#dp) (2)
+- [dp](#dp) (3)
 - [geometry](#geometry) (1)
-- [greedy](#greedy) (1)
+- [greedy](#greedy) (2)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (15)
 - [math](#math) (4)
@@ -42,6 +42,7 @@
 |---|---------|------------|----------|
 | 11A | [Increasing Sequence](https://codeforces.com/contest/11/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/11/A%20-%20Increasing%20Sequence/solution.cpp) |
 | 14C | [Four Segments](https://codeforces.com/contest/14/problem/C) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/14/C%20-%20Four%20Segments/solution.cpp) |
+| 1861B | [Two Binary Strings](https://codeforces.com/contest/1861/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1861/B%20-%20Two%20Binary%20Strings/solution.cpp) |
 
 ### dfs and similar
 
@@ -55,6 +56,7 @@
 |---|---------|------------|----------|
 | 10B | [Cinema Cashier](https://codeforces.com/contest/10/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/10/B%20-%20Cinema%20Cashier/solution.cpp) |
 | 22B | [Bargaining Table](https://codeforces.com/contest/22/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/22/B%20-%20Bargaining%20Table/solution.cpp) |
+| 1861B | [Two Binary Strings](https://codeforces.com/contest/1861/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1861/B%20-%20Two%20Binary%20Strings/solution.cpp) |
 
 ### geometry
 
@@ -67,6 +69,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 48D | [Permutations](https://codeforces.com/contest/48/problem/D) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/48/D%20-%20Permutations/solution.cpp) |
+| 1861B | [Two Binary Strings](https://codeforces.com/contest/1861/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1861/B%20-%20Two%20Binary%20Strings/solution.cpp) |
 
 ### hashing
 
