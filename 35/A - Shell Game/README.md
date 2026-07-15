@@ -1,0 +1,17 @@
+<h2><a href="https://codeforces.com/contest/35/problem/A" target="_blank" rel="noopener noreferrer">35A — Shell Game</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 1000 |
+| **Language** | C++23 (GCC 14-64, msys2) |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 35A](https://codeforces.com/contest/35/problem/A) |
+
+## Topics
+`implementation`
+
+---
+
+## Problem Statement
+
+<div class="header"><div class="title">A. Shell Game</div><div class="time-limit"><div class="property-title">time limit per test</div>2 seconds</div><div class="memory-limit"><div class="property-title">memory limit per test</div>64 megabytes</div><div class="input-file" style="font-weight: bold"><div class="property-title">input</div>input.txt</div><div class="output-file" style="font-weight: bold"><div class="property-title">output</div>output.txt</div></div><div><p>Today the «Z» city residents enjoy a shell game competition. The residents are gathered on the main square to watch the breath-taking performance. The performer puts 3 non-transparent cups upside down in a row. Then he openly puts a small ball under one of the cups and starts to shuffle the cups around very quickly so that on the whole he makes exactly 3 shuffles. After that the spectators have exactly one attempt to guess in which cup they think the ball is and if the answer is correct they get a prize. Maybe you can try to find the ball too?</p></div><div class="input-specification"><div class="section-title">Input</div><p>The first input line contains an integer from 1 to 3 — index of the cup which covers the ball before the shuffles. The following three lines describe the shuffles. Each description of a shuffle contains two distinct integers from 1 to 3 — indexes of the cups which the performer shuffled this time. The cups are numbered from left to right and are renumbered after each shuffle from left to right again. In other words, the cup on the left always has index 1, the one in the middle — index 2 and the one on the right — index 3.</p></div><div class="output-specification"><div class="section-title">Output</div><p>In the first line output an integer from 1 to 3 — index of the cup which will have the ball after all the shuffles. </p></div><div class="sample-tests"><div class="section-title">Examples</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id0034381652741941693" id="id000028378781867094416" class="input-output-copier">Copy</div></div><pre id="id0034381652741941693">1<br>1 2<br>2 1<br>2 1<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id005904741249459752" id="id004352989567175407" class="input-output-copier">Copy</div></div><pre id="id005904741249459752">2<br></pre></div><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id008755334281614618" id="id00634311161654883" class="input-output-copier">Copy</div></div><pre id="id008755334281614618">1<br>2 1<br>3 1<br>1 3<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id0028896379218943025" id="id0029787259060845905" class="input-output-copier">Copy</div></div><pre id="id0028896379218943025">2<br></pre></div></div></div>
