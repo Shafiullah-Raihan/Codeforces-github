@@ -6,12 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 23 | 14 |
+| 24 | 15 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [binary search](#binary-search) (1)
 - [brute force](#brute-force) (3)
 - [constructive algorithms](#constructive-algorithms) (3)
 - [dfs and similar](#dfs-and-similar) (1)
@@ -22,12 +23,18 @@
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (17)
 - [math](#math) (4)
-- [number theory](#number-theory) (1)
+- [number theory](#number-theory) (2)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (1)
 - [strings](#strings) (2)
 
 ---
+
+### binary search
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 75C | [Modified GCD](https://codeforces.com/contest/75/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/75/C%20-%20Modified%20GCD/solution.cpp) |
 
 ### brute force
 
@@ -119,6 +126,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 75C | [Modified GCD](https://codeforces.com/contest/75/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/75/C%20-%20Modified%20GCD/solution.cpp) |
 | 577A | [Multiplication Table](https://codeforces.com/contest/577/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/577/A%20-%20Multiplication%20Table/solution.cpp) |
 
 ### shortest paths
