@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 37 | 16 |
+| 38 | 16 |
 
 ---
 
@@ -25,7 +25,7 @@
 - [math](#math) (9)
 - [number theory](#number-theory) (5)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (2)
+- [sortings](#sortings) (3)
 - [string suffix structures](#string-suffix-structures) (1)
 - [strings](#strings) (4)
 
@@ -166,6 +166,7 @@
 |---|---------|------------|----------|
 | 37A | [Towers](https://codeforces.com/contest/37/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/37/A%20-%20Towers/solution.cpp) |
 | 1380C | [Create The Teams](https://codeforces.com/contest/1380/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1380/C%20-%20Create%20The%20Teams/solution.cpp) |
+| 1896A | [Jagged Swaps](https://codeforces.com/contest/1896/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1896/A%20-%20Jagged%20Swaps/solution.cpp) |
 
 ### string suffix structures
 
