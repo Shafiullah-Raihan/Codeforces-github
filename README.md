@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 35 | 16 |
+| 36 | 16 |
 
 ---
 
@@ -18,7 +18,7 @@
 - [dfs and similar](#dfs-and-similar) (1)
 - [dp](#dp) (5)
 - [expression parsing](#expression-parsing) (1)
-- [geometry](#geometry) (1)
+- [geometry](#geometry) (2)
 - [greedy](#greedy) (4)
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (22)
@@ -83,6 +83,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 14C | [Four Segments](https://codeforces.com/contest/14/problem/C) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/14/C%20-%20Four%20Segments/solution.cpp) |
+| 127A | [Wasted Time](https://codeforces.com/contest/127/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/127/A%20-%20Wasted%20Time/solution.cpp) |
 
 ### greedy
 
