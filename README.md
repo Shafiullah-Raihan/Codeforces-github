@@ -6,26 +6,26 @@
 
 | Total Problems | Topics |
 |---|---|
-| 29 | 15 |
+| 30 | 15 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [binary search](#binary-search) (1)
-- [brute force](#brute-force) (4)
+- [brute force](#brute-force) (5)
 - [constructive algorithms](#constructive-algorithms) (3)
 - [dfs and similar](#dfs-and-similar) (1)
-- [dp](#dp) (3)
+- [dp](#dp) (4)
 - [expression parsing](#expression-parsing) (1)
 - [geometry](#geometry) (1)
-- [greedy](#greedy) (3)
+- [greedy](#greedy) (4)
 - [hashing](#hashing) (2)
-- [implementation](#implementation) (19)
+- [implementation](#implementation) (20)
 - [math](#math) (7)
 - [number theory](#number-theory) (4)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (1)
+- [sortings](#sortings) (2)
 - [strings](#strings) (2)
 
 ---
@@ -43,6 +43,7 @@
 | 14C | [Four Segments](https://codeforces.com/contest/14/problem/C) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/14/C%20-%20Four%20Segments/solution.cpp) |
 | 22B | [Bargaining Table](https://codeforces.com/contest/22/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/22/B%20-%20Bargaining%20Table/solution.cpp) |
 | 35C | [Fire Again](https://codeforces.com/contest/35/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/35/C%20-%20Fire%20Again/solution.cpp) |
+| 1380C | [Create The Teams](https://codeforces.com/contest/1380/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1380/C%20-%20Create%20The%20Teams/solution.cpp) |
 | 1881C | [Perfect Square](https://codeforces.com/contest/1881/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1881/C%20-%20Perfect%20Square/solution.cpp) |
 
 ### constructive algorithms
@@ -65,6 +66,7 @@
 |---|---------|------------|----------|
 | 10B | [Cinema Cashier](https://codeforces.com/contest/10/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/10/B%20-%20Cinema%20Cashier/solution.cpp) |
 | 22B | [Bargaining Table](https://codeforces.com/contest/22/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/22/B%20-%20Bargaining%20Table/solution.cpp) |
+| 1380C | [Create The Teams](https://codeforces.com/contest/1380/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1380/C%20-%20Create%20The%20Teams/solution.cpp) |
 | 1861B | [Two Binary Strings](https://codeforces.com/contest/1861/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1861/B%20-%20Two%20Binary%20Strings/solution.cpp) |
 
 ### expression parsing
@@ -85,6 +87,7 @@
 |---|---------|------------|----------|
 | 48D | [Permutations](https://codeforces.com/contest/48/problem/D) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/48/D%20-%20Permutations/solution.cpp) |
 | 1380B | [Universal Solution](https://codeforces.com/contest/1380/problem/B) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1380/B%20-%20Universal%20Solution/solution.cpp) |
+| 1380C | [Create The Teams](https://codeforces.com/contest/1380/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1380/C%20-%20Create%20The%20Teams/solution.cpp) |
 | 1861B | [Two Binary Strings](https://codeforces.com/contest/1861/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1861/B%20-%20Two%20Binary%20Strings/solution.cpp) |
 
 ### hashing
@@ -116,6 +119,7 @@
 | 75B | [Facetook Priority Wall](https://codeforces.com/contest/75/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/75/B%20-%20Facetook%20Priority%20Wall/solution.cpp) |
 | 76E | [Points](https://codeforces.com/contest/76/problem/E) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/76/E%20-%20Points/solution.cpp) |
 | 577A | [Multiplication Table](https://codeforces.com/contest/577/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/577/A%20-%20Multiplication%20Table/solution.cpp) |
+| 1380C | [Create The Teams](https://codeforces.com/contest/1380/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1380/C%20-%20Create%20The%20Teams/solution.cpp) |
 | 1881C | [Perfect Square](https://codeforces.com/contest/1881/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1881/C%20-%20Perfect%20Square/solution.cpp) |
 
 ### math
@@ -150,6 +154,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 37A | [Towers](https://codeforces.com/contest/37/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/37/A%20-%20Towers/solution.cpp) |
+| 1380C | [Create The Teams](https://codeforces.com/contest/1380/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1380/C%20-%20Create%20The%20Teams/solution.cpp) |
 
 ### strings
 
