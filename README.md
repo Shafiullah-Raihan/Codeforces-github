@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 41 | 17 |
+| 42 | 17 |
 
 ---
 
@@ -14,13 +14,13 @@
 
 - [binary search](#binary-search) (2)
 - [brute force](#brute-force) (6)
-- [constructive algorithms](#constructive-algorithms) (4)
+- [constructive algorithms](#constructive-algorithms) (5)
 - [dfs and similar](#dfs-and-similar) (1)
 - [dp](#dp) (5)
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (1)
 - [geometry](#geometry) (3)
-- [greedy](#greedy) (4)
+- [greedy](#greedy) (5)
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (24)
 - [math](#math) (11)
@@ -56,6 +56,7 @@
 |---|---------|------------|----------|
 | 11A | [Increasing Sequence](https://codeforces.com/contest/11/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/11/A%20-%20Increasing%20Sequence/solution.cpp) |
 | 14C | [Four Segments](https://codeforces.com/contest/14/problem/C) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/14/C%20-%20Four%20Segments/solution.cpp) |
+| 1837C | [Best Binary String](https://codeforces.com/contest/1837/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1837/C%20-%20Best%20Binary%20String/solution.cpp) |
 | 1861B | [Two Binary Strings](https://codeforces.com/contest/1861/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1861/B%20-%20Two%20Binary%20Strings/solution.cpp) |
 | 2246A | [farmpiggie and Subset Sum](https://codeforces.com/contest/2246/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2246/A%20-%20farmpiggie%20and%20Subset%20Sum/solution.cpp) |
 
@@ -102,6 +103,7 @@
 | 48D | [Permutations](https://codeforces.com/contest/48/problem/D) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/48/D%20-%20Permutations/solution.cpp) |
 | 1380B | [Universal Solution](https://codeforces.com/contest/1380/problem/B) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1380/B%20-%20Universal%20Solution/solution.cpp) |
 | 1380C | [Create The Teams](https://codeforces.com/contest/1380/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1380/C%20-%20Create%20The%20Teams/solution.cpp) |
+| 1837C | [Best Binary String](https://codeforces.com/contest/1837/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1837/C%20-%20Best%20Binary%20String/solution.cpp) |
 | 1861B | [Two Binary Strings](https://codeforces.com/contest/1861/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1861/B%20-%20Two%20Binary%20Strings/solution.cpp) |
 
 ### hashing
