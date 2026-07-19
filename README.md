@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 30 | 15 |
+| 31 | 15 |
 
 ---
 
@@ -21,12 +21,12 @@
 - [geometry](#geometry) (1)
 - [greedy](#greedy) (4)
 - [hashing](#hashing) (2)
-- [implementation](#implementation) (20)
+- [implementation](#implementation) (21)
 - [math](#math) (7)
-- [number theory](#number-theory) (4)
+- [number theory](#number-theory) (5)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (2)
-- [strings](#strings) (2)
+- [strings](#strings) (3)
 
 ---
 
@@ -118,6 +118,7 @@
 | 75A | [Life Without Zeros](https://codeforces.com/contest/75/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/75/A%20-%20Life%20Without%20Zeros/solution.cpp) |
 | 75B | [Facetook Priority Wall](https://codeforces.com/contest/75/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/75/B%20-%20Facetook%20Priority%20Wall/solution.cpp) |
 | 76E | [Points](https://codeforces.com/contest/76/problem/E) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/76/E%20-%20Points/solution.cpp) |
+| 123A | [Prime Permutation](https://codeforces.com/contest/123/problem/A) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/123/A%20-%20Prime%20Permutation/solution.cpp) |
 | 577A | [Multiplication Table](https://codeforces.com/contest/577/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/577/A%20-%20Multiplication%20Table/solution.cpp) |
 | 1380C | [Create The Teams](https://codeforces.com/contest/1380/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1380/C%20-%20Create%20The%20Teams/solution.cpp) |
 | 1881C | [Perfect Square](https://codeforces.com/contest/1881/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1881/C%20-%20Perfect%20Square/solution.cpp) |
@@ -139,6 +140,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 75C | [Modified GCD](https://codeforces.com/contest/75/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/75/C%20-%20Modified%20GCD/solution.cpp) |
+| 123A | [Prime Permutation](https://codeforces.com/contest/123/problem/A) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/123/A%20-%20Prime%20Permutation/solution.cpp) |
 | 577A | [Multiplication Table](https://codeforces.com/contest/577/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/577/A%20-%20Multiplication%20Table/solution.cpp) |
 | 1872C | [Non-coprime Split](https://codeforces.com/contest/1872/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1872/C%20-%20Non-coprime%20Split/solution.cpp) |
 | 1899D | [Yarik and Musical Notes](https://codeforces.com/contest/1899/problem/D) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1899/D%20-%20Yarik%20and%20Musical%20Notes/solution.cpp) |
@@ -162,6 +164,7 @@
 |---|---------|------------|----------|
 | 39J | [Spelling Check](https://codeforces.com/contest/39/problem/J) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/39/J%20-%20Spelling%20Check/solution.cpp) |
 | 75B | [Facetook Priority Wall](https://codeforces.com/contest/75/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/75/B%20-%20Facetook%20Priority%20Wall/solution.cpp) |
+| 123A | [Prime Permutation](https://codeforces.com/contest/123/problem/A) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/123/A%20-%20Prime%20Permutation/solution.cpp) |
 
 ---
 
