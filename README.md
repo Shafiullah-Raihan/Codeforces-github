@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 40 | 16 |
+| 41 | 17 |
 
 ---
 
@@ -18,11 +18,12 @@
 - [dfs and similar](#dfs-and-similar) (1)
 - [dp](#dp) (5)
 - [expression parsing](#expression-parsing) (1)
+- [games](#games) (1)
 - [geometry](#geometry) (3)
 - [greedy](#greedy) (4)
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (24)
-- [math](#math) (10)
+- [math](#math) (11)
 - [number theory](#number-theory) (5)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (3)
@@ -79,6 +80,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 75B | [Facetook Priority Wall](https://codeforces.com/contest/75/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/75/B%20-%20Facetook%20Priority%20Wall/solution.cpp) |
+
+### games
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1848A | [Vika and Her Friends](https://codeforces.com/contest/1848/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1848/A%20-%20Vika%20and%20Her%20Friends/solution.cpp) |
 
 ### geometry
 
@@ -146,6 +153,7 @@
 | 124A | [The number of positions](https://codeforces.com/contest/124/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/124/A%20-%20The%20number%20of%20positions/solution.cpp) |
 | 125A | [Measuring Lengths in Baden](https://codeforces.com/contest/125/problem/A) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/125/A%20-%20Measuring%20Lengths%20in%20Baden/solution.cpp) |
 | 1845B | [Come Together](https://codeforces.com/contest/1845/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1845/B%20-%20Come%20Together/solution.cpp) |
+| 1848A | [Vika and Her Friends](https://codeforces.com/contest/1848/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1848/A%20-%20Vika%20and%20Her%20Friends/solution.cpp) |
 | 1872C | [Non-coprime Split](https://codeforces.com/contest/1872/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1872/C%20-%20Non-coprime%20Split/solution.cpp) |
 | 1899D | [Yarik and Musical Notes](https://codeforces.com/contest/1899/problem/D) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1899/D%20-%20Yarik%20and%20Musical%20Notes/solution.cpp) |
 
