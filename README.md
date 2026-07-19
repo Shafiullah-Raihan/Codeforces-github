@@ -6,27 +6,28 @@
 
 | Total Problems | Topics |
 |---|---|
-| 34 | 15 |
+| 35 | 16 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [binary search](#binary-search) (1)
+- [binary search](#binary-search) (2)
 - [brute force](#brute-force) (5)
 - [constructive algorithms](#constructive-algorithms) (3)
 - [dfs and similar](#dfs-and-similar) (1)
-- [dp](#dp) (4)
+- [dp](#dp) (5)
 - [expression parsing](#expression-parsing) (1)
 - [geometry](#geometry) (1)
 - [greedy](#greedy) (4)
-- [hashing](#hashing) (2)
+- [hashing](#hashing) (3)
 - [implementation](#implementation) (22)
 - [math](#math) (9)
 - [number theory](#number-theory) (5)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (2)
-- [strings](#strings) (3)
+- [string suffix structures](#string-suffix-structures) (1)
+- [strings](#strings) (4)
 
 ---
 
@@ -35,6 +36,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 75C | [Modified GCD](https://codeforces.com/contest/75/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/75/C%20-%20Modified%20GCD/solution.cpp) |
+| 126B | [Password](https://codeforces.com/contest/126/problem/B) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/126/B%20-%20Password/solution.cpp) |
 
 ### brute force
 
@@ -66,6 +68,7 @@
 |---|---------|------------|----------|
 | 10B | [Cinema Cashier](https://codeforces.com/contest/10/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/10/B%20-%20Cinema%20Cashier/solution.cpp) |
 | 22B | [Bargaining Table](https://codeforces.com/contest/22/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/22/B%20-%20Bargaining%20Table/solution.cpp) |
+| 126B | [Password](https://codeforces.com/contest/126/problem/B) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/126/B%20-%20Password/solution.cpp) |
 | 1380C | [Create The Teams](https://codeforces.com/contest/1380/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1380/C%20-%20Create%20The%20Teams/solution.cpp) |
 | 1861B | [Two Binary Strings](https://codeforces.com/contest/1861/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1861/B%20-%20Two%20Binary%20Strings/solution.cpp) |
 
@@ -95,6 +98,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 39J | [Spelling Check](https://codeforces.com/contest/39/problem/J) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/39/J%20-%20Spelling%20Check/solution.cpp) |
+| 126B | [Password](https://codeforces.com/contest/126/problem/B) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/126/B%20-%20Password/solution.cpp) |
 | 1899D | [Yarik and Musical Notes](https://codeforces.com/contest/1899/problem/D) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1899/D%20-%20Yarik%20and%20Musical%20Notes/solution.cpp) |
 
 ### implementation
@@ -161,6 +165,12 @@
 | 37A | [Towers](https://codeforces.com/contest/37/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/37/A%20-%20Towers/solution.cpp) |
 | 1380C | [Create The Teams](https://codeforces.com/contest/1380/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1380/C%20-%20Create%20The%20Teams/solution.cpp) |
 
+### string suffix structures
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 126B | [Password](https://codeforces.com/contest/126/problem/B) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/126/B%20-%20Password/solution.cpp) |
+
 ### strings
 
 | # | Problem | Difficulty | Solution |
@@ -168,6 +178,7 @@
 | 39J | [Spelling Check](https://codeforces.com/contest/39/problem/J) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/39/J%20-%20Spelling%20Check/solution.cpp) |
 | 75B | [Facetook Priority Wall](https://codeforces.com/contest/75/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/75/B%20-%20Facetook%20Priority%20Wall/solution.cpp) |
 | 123A | [Prime Permutation](https://codeforces.com/contest/123/problem/A) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/123/A%20-%20Prime%20Permutation/solution.cpp) |
+| 126B | [Password](https://codeforces.com/contest/126/problem/B) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/126/B%20-%20Password/solution.cpp) |
 
 ---
 
