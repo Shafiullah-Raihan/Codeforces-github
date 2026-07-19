@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 39 | 16 |
+| 40 | 16 |
 
 ---
 
@@ -18,11 +18,11 @@
 - [dfs and similar](#dfs-and-similar) (1)
 - [dp](#dp) (5)
 - [expression parsing](#expression-parsing) (1)
-- [geometry](#geometry) (2)
+- [geometry](#geometry) (3)
 - [greedy](#greedy) (4)
 - [hashing](#hashing) (3)
-- [implementation](#implementation) (23)
-- [math](#math) (9)
+- [implementation](#implementation) (24)
+- [math](#math) (10)
 - [number theory](#number-theory) (5)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (3)
@@ -86,6 +86,7 @@
 |---|---------|------------|----------|
 | 14C | [Four Segments](https://codeforces.com/contest/14/problem/C) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/14/C%20-%20Four%20Segments/solution.cpp) |
 | 127A | [Wasted Time](https://codeforces.com/contest/127/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/127/A%20-%20Wasted%20Time/solution.cpp) |
+| 1845B | [Come Together](https://codeforces.com/contest/1845/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1845/B%20-%20Come%20Together/solution.cpp) |
 
 ### greedy
 
@@ -129,6 +130,7 @@
 | 125B | [Simple XML](https://codeforces.com/contest/125/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/125/B%20-%20Simple%20XML/solution.cpp) |
 | 577A | [Multiplication Table](https://codeforces.com/contest/577/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/577/A%20-%20Multiplication%20Table/solution.cpp) |
 | 1380C | [Create The Teams](https://codeforces.com/contest/1380/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1380/C%20-%20Create%20The%20Teams/solution.cpp) |
+| 1845B | [Come Together](https://codeforces.com/contest/1845/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1845/B%20-%20Come%20Together/solution.cpp) |
 | 1881C | [Perfect Square](https://codeforces.com/contest/1881/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1881/C%20-%20Perfect%20Square/solution.cpp) |
 | 1898A | [Milica and String](https://codeforces.com/contest/1898/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1898/A%20-%20Milica%20and%20String/solution.cpp) |
 
@@ -143,6 +145,7 @@
 | 76E | [Points](https://codeforces.com/contest/76/problem/E) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/76/E%20-%20Points/solution.cpp) |
 | 124A | [The number of positions](https://codeforces.com/contest/124/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/124/A%20-%20The%20number%20of%20positions/solution.cpp) |
 | 125A | [Measuring Lengths in Baden](https://codeforces.com/contest/125/problem/A) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/125/A%20-%20Measuring%20Lengths%20in%20Baden/solution.cpp) |
+| 1845B | [Come Together](https://codeforces.com/contest/1845/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1845/B%20-%20Come%20Together/solution.cpp) |
 | 1872C | [Non-coprime Split](https://codeforces.com/contest/1872/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1872/C%20-%20Non-coprime%20Split/solution.cpp) |
 | 1899D | [Yarik and Musical Notes](https://codeforces.com/contest/1899/problem/D) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1899/D%20-%20Yarik%20and%20Musical%20Notes/solution.cpp) |
 
