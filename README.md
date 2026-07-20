@@ -6,30 +6,32 @@
 
 | Total Problems | Topics |
 |---|---|
-| 43 | 18 |
+| 44 | 20 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [binary search](#binary-search) (2)
+- [binary search](#binary-search) (3)
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (6)
 - [constructive algorithms](#constructive-algorithms) (5)
+- [data structures](#data-structures) (1)
 - [dfs and similar](#dfs-and-similar) (1)
-- [dp](#dp) (5)
+- [dp](#dp) (6)
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (1)
 - [geometry](#geometry) (3)
 - [greedy](#greedy) (6)
 - [hashing](#hashing) (3)
-- [implementation](#implementation) (24)
-- [math](#math) (12)
+- [implementation](#implementation) (25)
+- [math](#math) (13)
 - [number theory](#number-theory) (5)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (3)
 - [string suffix structures](#string-suffix-structures) (1)
 - [strings](#strings) (5)
+- [two pointers](#two-pointers) (1)
 
 ---
 
@@ -39,6 +41,7 @@
 |---|---------|------------|----------|
 | 75C | [Modified GCD](https://codeforces.com/contest/75/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/75/C%20-%20Modified%20GCD/solution.cpp) |
 | 126B | [Password](https://codeforces.com/contest/126/problem/B) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/126/B%20-%20Password/solution.cpp) |
+| 1870C | [Colorful Table](https://codeforces.com/contest/1870/problem/C) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1870/C%20-%20Colorful%20Table/solution.cpp) |
 
 ### bitmasks
 
@@ -67,6 +70,12 @@
 | 1861B | [Two Binary Strings](https://codeforces.com/contest/1861/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1861/B%20-%20Two%20Binary%20Strings/solution.cpp) |
 | 2246A | [farmpiggie and Subset Sum](https://codeforces.com/contest/2246/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2246/A%20-%20farmpiggie%20and%20Subset%20Sum/solution.cpp) |
 
+### data structures
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1870C | [Colorful Table](https://codeforces.com/contest/1870/problem/C) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1870/C%20-%20Colorful%20Table/solution.cpp) |
+
 ### dfs and similar
 
 | # | Problem | Difficulty | Solution |
@@ -82,6 +91,7 @@
 | 126B | [Password](https://codeforces.com/contest/126/problem/B) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/126/B%20-%20Password/solution.cpp) |
 | 1380C | [Create The Teams](https://codeforces.com/contest/1380/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1380/C%20-%20Create%20The%20Teams/solution.cpp) |
 | 1861B | [Two Binary Strings](https://codeforces.com/contest/1861/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1861/B%20-%20Two%20Binary%20Strings/solution.cpp) |
+| 1870C | [Colorful Table](https://codeforces.com/contest/1870/problem/C) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1870/C%20-%20Colorful%20Table/solution.cpp) |
 
 ### expression parsing
 
@@ -148,6 +158,7 @@
 | 577A | [Multiplication Table](https://codeforces.com/contest/577/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/577/A%20-%20Multiplication%20Table/solution.cpp) |
 | 1380C | [Create The Teams](https://codeforces.com/contest/1380/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1380/C%20-%20Create%20The%20Teams/solution.cpp) |
 | 1845B | [Come Together](https://codeforces.com/contest/1845/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1845/B%20-%20Come%20Together/solution.cpp) |
+| 1870C | [Colorful Table](https://codeforces.com/contest/1870/problem/C) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1870/C%20-%20Colorful%20Table/solution.cpp) |
 | 1881C | [Perfect Square](https://codeforces.com/contest/1881/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1881/C%20-%20Perfect%20Square/solution.cpp) |
 | 1898A | [Milica and String](https://codeforces.com/contest/1898/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1898/A%20-%20Milica%20and%20String/solution.cpp) |
 
@@ -165,6 +176,7 @@
 | 1845B | [Come Together](https://codeforces.com/contest/1845/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1845/B%20-%20Come%20Together/solution.cpp) |
 | 1848A | [Vika and Her Friends](https://codeforces.com/contest/1848/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1848/A%20-%20Vika%20and%20Her%20Friends/solution.cpp) |
 | 1870B | [Friendly Arrays](https://codeforces.com/contest/1870/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1870/B%20-%20Friendly%20Arrays/solution.cpp) |
+| 1870C | [Colorful Table](https://codeforces.com/contest/1870/problem/C) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1870/C%20-%20Colorful%20Table/solution.cpp) |
 | 1872C | [Non-coprime Split](https://codeforces.com/contest/1872/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1872/C%20-%20Non-coprime%20Split/solution.cpp) |
 | 1899D | [Yarik and Musical Notes](https://codeforces.com/contest/1899/problem/D) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1899/D%20-%20Yarik%20and%20Musical%20Notes/solution.cpp) |
 
@@ -207,6 +219,12 @@
 | 123A | [Prime Permutation](https://codeforces.com/contest/123/problem/A) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/123/A%20-%20Prime%20Permutation/solution.cpp) |
 | 126B | [Password](https://codeforces.com/contest/126/problem/B) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/126/B%20-%20Password/solution.cpp) |
 | 1898A | [Milica and String](https://codeforces.com/contest/1898/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1898/A%20-%20Milica%20and%20String/solution.cpp) |
+
+### two pointers
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1870C | [Colorful Table](https://codeforces.com/contest/1870/problem/C) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1870/C%20-%20Colorful%20Table/solution.cpp) |
 
 ---
 
