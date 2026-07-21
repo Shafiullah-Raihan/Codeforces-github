@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 48 | 21 |
+| 49 | 21 |
 
 ---
 
@@ -26,7 +26,7 @@
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (25)
 - [interactive](#interactive) (1)
-- [math](#math) (17)
+- [math](#math) (18)
 - [number theory](#number-theory) (7)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (3)
@@ -186,6 +186,7 @@
 | 76E | [Points](https://codeforces.com/contest/76/problem/E) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/76/E%20-%20Points/solution.cpp) |
 | 124A | [The number of positions](https://codeforces.com/contest/124/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/124/A%20-%20The%20number%20of%20positions/solution.cpp) |
 | 125A | [Measuring Lengths in Baden](https://codeforces.com/contest/125/problem/A) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/125/A%20-%20Measuring%20Lengths%20in%20Baden/solution.cpp) |
+| 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/617/A%20-%20Elephant/solution.cpp) |
 | 1407C | [Chocolate Bunny](https://codeforces.com/contest/1407/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1407/C%20-%20Chocolate%20Bunny/solution.cpp) |
 | 1462D | [Add to Neighbour and Remove](https://codeforces.com/contest/1462/problem/D) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1462/D%20-%20Add%20to%20Neighbour%20and%20Remove/solution.cpp) |
 | 1771C | [Hossam and Trainees](https://codeforces.com/contest/1771/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1771/C%20-%20Hossam%20and%20Trainees/solution.cpp) |
