@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 55 | 22 |
+| 56 | 22 |
 
 ---
 
@@ -25,10 +25,10 @@
 - [geometry](#geometry) (3)
 - [greedy](#greedy) (10)
 - [hashing](#hashing) (3)
-- [implementation](#implementation) (28)
+- [implementation](#implementation) (29)
 - [interactive](#interactive) (1)
 - [math](#math) (19)
-- [number theory](#number-theory) (7)
+- [number theory](#number-theory) (8)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (4)
 - [string suffix structures](#string-suffix-structures) (1)
@@ -167,6 +167,7 @@
 | 36B | [Fractal](https://codeforces.com/contest/36/problem/B) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/36/B%20-%20Fractal/solution.cpp) |
 | 39J | [Spelling Check](https://codeforces.com/contest/39/problem/J) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/39/J%20-%20Spelling%20Check/solution.cpp) |
 | 44B | [Cola](https://codeforces.com/contest/44/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/44/B%20-%20Cola/solution.cpp) |
+| 59B | [Fortune Telling](https://codeforces.com/contest/59/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/59/B%20-%20Fortune%20Telling/solution.cpp) |
 | 63A | [Sinking Ship](https://codeforces.com/contest/63/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/63/A%20-%20Sinking%20Ship/solution.cpp) |
 | 63B | [Settlers' Training](https://codeforces.com/contest/63/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/63/B%20-%20Settlers'%20Training/solution.cpp) |
 | 64A | [Factorial](https://codeforces.com/contest/64/problem/A) | 1300 | [Tcl](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/64/A%20-%20Factorial/solution.txt) |
@@ -216,6 +217,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 59B | [Fortune Telling](https://codeforces.com/contest/59/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/59/B%20-%20Fortune%20Telling/solution.cpp) |
 | 75C | [Modified GCD](https://codeforces.com/contest/75/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/75/C%20-%20Modified%20GCD/solution.cpp) |
 | 123A | [Prime Permutation](https://codeforces.com/contest/123/problem/A) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/123/A%20-%20Prime%20Permutation/solution.cpp) |
 | 577A | [Multiplication Table](https://codeforces.com/contest/577/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/577/A%20-%20Multiplication%20Table/solution.cpp) |
