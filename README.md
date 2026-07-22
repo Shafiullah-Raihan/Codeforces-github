@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 58 | 22 |
+| 59 | 22 |
 
 ---
 
@@ -25,7 +25,7 @@
 - [geometry](#geometry) (3)
 - [greedy](#greedy) (10)
 - [hashing](#hashing) (3)
-- [implementation](#implementation) (29)
+- [implementation](#implementation) (30)
 - [interactive](#interactive) (1)
 - [math](#math) (20)
 - [number theory](#number-theory) (8)
@@ -164,6 +164,7 @@
 | 14C | [Four Segments](https://codeforces.com/contest/14/problem/C) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/14/C%20-%20Four%20Segments/solution.cpp) |
 | 24B | [F1 Champions](https://codeforces.com/contest/24/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/24/B%20-%20F1%20Champions/solution.cpp) |
 | 29B | [Traffic Lights](https://codeforces.com/contest/29/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/29/B%20-%20Traffic%20Lights/solution.cpp) |
+| 30B | [Codeforces World Finals](https://codeforces.com/contest/30/problem/B) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/30/B%20-%20Codeforces%20World%20Finals/solution.cpp) |
 | 35A | [Shell Game](https://codeforces.com/contest/35/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/35/A%20-%20Shell%20Game/solution.cpp) |
 | 36A | [Extra-terrestrial Intelligence](https://codeforces.com/contest/36/problem/A) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/36/A%20-%20Extra-terrestrial%20Intelligence/solution.cpp) |
 | 36B | [Fractal](https://codeforces.com/contest/36/problem/B) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/36/B%20-%20Fractal/solution.cpp) |
