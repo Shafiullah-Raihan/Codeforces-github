@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 49 | 21 |
+| 50 | 21 |
 
 ---
 
@@ -31,7 +31,7 @@
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (3)
 - [string suffix structures](#string-suffix-structures) (1)
-- [strings](#strings) (5)
+- [strings](#strings) (6)
 - [two pointers](#two-pointers) (2)
 
 ---
@@ -235,6 +235,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 39J | [Spelling Check](https://codeforces.com/contest/39/problem/J) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/39/J%20-%20Spelling%20Check/solution.cpp) |
+| 61B | [Hard Work](https://codeforces.com/contest/61/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/61/B%20-%20Hard%20Work/solution.cpp) |
 | 75B | [Facetook Priority Wall](https://codeforces.com/contest/75/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/75/B%20-%20Facetook%20Priority%20Wall/solution.cpp) |
 | 123A | [Prime Permutation](https://codeforces.com/contest/123/problem/A) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/123/A%20-%20Prime%20Permutation/solution.cpp) |
 | 126B | [Password](https://codeforces.com/contest/126/problem/B) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/126/B%20-%20Password/solution.cpp) |
