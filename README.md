@@ -6,12 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 53 | 21 |
+| 54 | 22 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [*special](#special) (1)
 - [binary search](#binary-search) (4)
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (7)
@@ -19,7 +20,7 @@
 - [data structures](#data-structures) (1)
 - [dfs and similar](#dfs-and-similar) (1)
 - [dp](#dp) (6)
-- [expression parsing](#expression-parsing) (1)
+- [expression parsing](#expression-parsing) (2)
 - [games](#games) (1)
 - [geometry](#geometry) (3)
 - [greedy](#greedy) (10)
@@ -35,6 +36,12 @@
 - [two pointers](#two-pointers) (2)
 
 ---
+
+### *special
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 64B | [Expression](https://codeforces.com/contest/64/problem/B) | 1500 | [Tcl](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/64/B%20-%20Expression/solution.txt) |
 
 ### binary search
 
@@ -101,6 +108,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 64B | [Expression](https://codeforces.com/contest/64/problem/B) | 1500 | [Tcl](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/64/B%20-%20Expression/solution.txt) |
 | 75B | [Facetook Priority Wall](https://codeforces.com/contest/75/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/75/B%20-%20Facetook%20Priority%20Wall/solution.cpp) |
 
 ### games
