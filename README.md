@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 54 | 22 |
+| 55 | 22 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [*special](#special) (1)
+- [*special](#special) (2)
 - [binary search](#binary-search) (4)
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (7)
@@ -25,7 +25,7 @@
 - [geometry](#geometry) (3)
 - [greedy](#greedy) (10)
 - [hashing](#hashing) (3)
-- [implementation](#implementation) (27)
+- [implementation](#implementation) (28)
 - [interactive](#interactive) (1)
 - [math](#math) (19)
 - [number theory](#number-theory) (7)
@@ -41,6 +41,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 64A | [Factorial](https://codeforces.com/contest/64/problem/A) | 1300 | [Tcl](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/64/A%20-%20Factorial/solution.txt) |
 | 64B | [Expression](https://codeforces.com/contest/64/problem/B) | 1500 | [Tcl](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/64/B%20-%20Expression/solution.txt) |
 
 ### binary search
@@ -168,6 +169,7 @@
 | 44B | [Cola](https://codeforces.com/contest/44/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/44/B%20-%20Cola/solution.cpp) |
 | 63A | [Sinking Ship](https://codeforces.com/contest/63/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/63/A%20-%20Sinking%20Ship/solution.cpp) |
 | 63B | [Settlers' Training](https://codeforces.com/contest/63/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/63/B%20-%20Settlers'%20Training/solution.cpp) |
+| 64A | [Factorial](https://codeforces.com/contest/64/problem/A) | 1300 | [Tcl](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/64/A%20-%20Factorial/solution.txt) |
 | 75A | [Life Without Zeros](https://codeforces.com/contest/75/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/75/A%20-%20Life%20Without%20Zeros/solution.cpp) |
 | 75B | [Facetook Priority Wall](https://codeforces.com/contest/75/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/75/B%20-%20Facetook%20Priority%20Wall/solution.cpp) |
 | 76E | [Points](https://codeforces.com/contest/76/problem/E) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/76/E%20-%20Points/solution.cpp) |
