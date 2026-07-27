@@ -6,16 +6,17 @@
 
 | Total Problems | Topics |
 |---|---|
-| 70 | 22 |
+| 71 | 23 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (2)
-- [binary search](#binary-search) (5)
+- [binary search](#binary-search) (6)
 - [bitmasks](#bitmasks) (2)
 - [brute force](#brute-force) (11)
+- [combinatorics](#combinatorics) (1)
 - [constructive algorithms](#constructive-algorithms) (7)
 - [data structures](#data-structures) (2)
 - [dfs and similar](#dfs-and-similar) (1)
@@ -26,8 +27,8 @@
 - [greedy](#greedy) (17)
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (32)
-- [interactive](#interactive) (1)
-- [math](#math) (28)
+- [interactive](#interactive) (2)
+- [math](#math) (29)
 - [number theory](#number-theory) (11)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (6)
@@ -50,6 +51,7 @@
 |---|---------|------------|----------|
 | 75C | [Modified GCD](https://codeforces.com/contest/75/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/75/C%20-%20Modified%20GCD/solution.cpp) |
 | 126B | [Password](https://codeforces.com/contest/126/problem/B) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/126/B%20-%20Password/solution.cpp) |
+| 1584D | [Guess the Permutation](https://codeforces.com/contest/1584/problem/D) | 2000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1584/D%20-%20Guess%20the%20Permutation/solution.cpp) |
 | 1860B | [Fancy Coins](https://codeforces.com/contest/1860/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1860/B%20-%20Fancy%20Coins/solution.cpp) |
 | 1870C | [Colorful Table](https://codeforces.com/contest/1870/problem/C) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1870/C%20-%20Colorful%20Table/solution.cpp) |
 | 2117D | [Retaliation](https://codeforces.com/contest/2117/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2117/D%20-%20Retaliation/solution.cpp) |
@@ -76,6 +78,12 @@
 | 1898A | [Milica and String](https://codeforces.com/contest/1898/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1898/A%20-%20Milica%20and%20String/solution.cpp) |
 | 2020A | [Find Minimum Operations](https://codeforces.com/contest/2020/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2020/A%20-%20Find%20Minimum%20Operations/solution.cpp) |
 | 2114D | [Come a Little Closer](https://codeforces.com/contest/2114/problem/D) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2114/D%20-%20Come%20a%20Little%20Closer/solution.cpp) |
+
+### combinatorics
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1584D | [Guess the Permutation](https://codeforces.com/contest/1584/problem/D) | 2000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1584/D%20-%20Guess%20the%20Permutation/solution.cpp) |
 
 ### constructive algorithms
 
@@ -208,6 +216,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1407C | [Chocolate Bunny](https://codeforces.com/contest/1407/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1407/C%20-%20Chocolate%20Bunny/solution.cpp) |
+| 1584D | [Guess the Permutation](https://codeforces.com/contest/1584/problem/D) | 2000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1584/D%20-%20Guess%20the%20Permutation/solution.cpp) |
 
 ### math
 
@@ -228,6 +237,7 @@
 | 1584A | [Mathematical Addition](https://codeforces.com/contest/1584/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1584/A%20-%20Mathematical%20Addition/solution.cpp) |
 | 1584B | [Coloring Rectangles](https://codeforces.com/contest/1584/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1584/B%20-%20Coloring%20Rectangles/solution.cpp) |
 | 1584C | [Two Arrays](https://codeforces.com/contest/1584/problem/C) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1584/C%20-%20Two%20Arrays/solution.cpp) |
+| 1584D | [Guess the Permutation](https://codeforces.com/contest/1584/problem/D) | 2000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1584/D%20-%20Guess%20the%20Permutation/solution.cpp) |
 | 1771C | [Hossam and Trainees](https://codeforces.com/contest/1771/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1771/C%20-%20Hossam%20and%20Trainees/solution.cpp) |
 | 1845B | [Come Together](https://codeforces.com/contest/1845/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1845/B%20-%20Come%20Together/solution.cpp) |
 | 1848A | [Vika and Her Friends](https://codeforces.com/contest/1848/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1848/A%20-%20Vika%20and%20Her%20Friends/solution.cpp) |
