@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 69 | 22 |
+| 70 | 22 |
 
 ---
 
@@ -27,7 +27,7 @@
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (32)
 - [interactive](#interactive) (1)
-- [math](#math) (27)
+- [math](#math) (28)
 - [number theory](#number-theory) (11)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (6)
@@ -225,6 +225,7 @@
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/617/A%20-%20Elephant/solution.cpp) |
 | 1407C | [Chocolate Bunny](https://codeforces.com/contest/1407/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1407/C%20-%20Chocolate%20Bunny/solution.cpp) |
 | 1462D | [Add to Neighbour and Remove](https://codeforces.com/contest/1462/problem/D) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1462/D%20-%20Add%20to%20Neighbour%20and%20Remove/solution.cpp) |
+| 1584A | [Mathematical Addition](https://codeforces.com/contest/1584/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1584/A%20-%20Mathematical%20Addition/solution.cpp) |
 | 1584B | [Coloring Rectangles](https://codeforces.com/contest/1584/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1584/B%20-%20Coloring%20Rectangles/solution.cpp) |
 | 1584C | [Two Arrays](https://codeforces.com/contest/1584/problem/C) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1584/C%20-%20Two%20Arrays/solution.cpp) |
 | 1771C | [Hossam and Trainees](https://codeforces.com/contest/1771/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1771/C%20-%20Hossam%20and%20Trainees/solution.cpp) |
