@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 74 | 24 |
+| 75 | 24 |
 
 ---
 
@@ -28,8 +28,8 @@
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (32)
 - [interactive](#interactive) (2)
-- [math](#math) (31)
-- [number theory](#number-theory) (12)
+- [math](#math) (32)
+- [number theory](#number-theory) (13)
 - [probabilities](#probabilities) (1)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (6)
@@ -256,6 +256,7 @@
 | 2115A | [Gellyfish and Flaming Peony](https://codeforces.com/contest/2115/problem/A) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2115/A%20-%20Gellyfish%20and%20Flaming%20Peony/solution.cpp) |
 | 2116B | [Gellyfish and Baby's Breath](https://codeforces.com/contest/2116/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2116/B%20-%20Gellyfish%20and%20Baby's%20Breath/solution.cpp) |
 | 2117D | [Retaliation](https://codeforces.com/contest/2117/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2117/D%20-%20Retaliation/solution.cpp) |
+| 2125B | [Left and Down](https://codeforces.com/contest/2125/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2125/B%20-%20Left%20and%20Down/solution.cpp) |
 | 2125C | [Count Good Numbers](https://codeforces.com/contest/2125/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2125/C%20-%20Count%20Good%20Numbers/solution.cpp) |
 | 2125D | [Segments Covering](https://codeforces.com/contest/2125/problem/D) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2125/D%20-%20Segments%20Covering/solution.cpp) |
 
@@ -274,6 +275,7 @@
 | 2020A | [Find Minimum Operations](https://codeforces.com/contest/2020/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2020/A%20-%20Find%20Minimum%20Operations/solution.cpp) |
 | 2115A | [Gellyfish and Flaming Peony](https://codeforces.com/contest/2115/problem/A) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2115/A%20-%20Gellyfish%20and%20Flaming%20Peony/solution.cpp) |
 | 2117D | [Retaliation](https://codeforces.com/contest/2117/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2117/D%20-%20Retaliation/solution.cpp) |
+| 2125B | [Left and Down](https://codeforces.com/contest/2125/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2125/B%20-%20Left%20and%20Down/solution.cpp) |
 | 2125C | [Count Good Numbers](https://codeforces.com/contest/2125/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2125/C%20-%20Count%20Good%20Numbers/solution.cpp) |
 
 ### probabilities
