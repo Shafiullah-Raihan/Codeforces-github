@@ -6,12 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 16 | 21 |
+| 17 | 22 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [Uncategorized](#uncategorized) (1)
 - [binary search](#binary-search) (3)
 - [bitmasks](#bitmasks) (2)
 - [brute force](#brute-force) (7)
@@ -35,6 +36,12 @@
 - [trees](#trees) (1)
 
 ---
+
+### Uncategorized
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2197D | [Another Problem about Beautiful Pairs](https://codeforces.com/contest/2197/problem/D) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2197/D%20-%20Another%20Problem%20about%20Beautiful%20Pairs/solution.cpp) |
 
 ### binary search
 
