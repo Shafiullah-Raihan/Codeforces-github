@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 18 | 23 |
+| 19 | 23 |
 
 ---
 
@@ -15,7 +15,7 @@
 - [Uncategorized](#uncategorized) (1)
 - [binary search](#binary-search) (4)
 - [bitmasks](#bitmasks) (2)
-- [brute force](#brute-force) (8)
+- [brute force](#brute-force) (9)
 - [constructive algorithms](#constructive-algorithms) (5)
 - [dfs and similar](#dfs-and-similar) (2)
 - [dp](#dp) (5)
@@ -64,6 +64,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 22A | [Second Order Statistics](https://codeforces.com/contest/22/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/22/A%20-%20Second%20Order%20Statistics/solution.cpp) |
 | 35C | [Fire Again](https://codeforces.com/contest/35/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/35/C%20-%20Fire%20Again/solution.cpp) |
 | 2020A | [Find Minimum Operations](https://codeforces.com/contest/2020/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2020/A%20-%20Find%20Minimum%20Operations/solution.cpp) |
 | 2020D | [Connect the Dots](https://codeforces.com/contest/2020/problem/D) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2020/D%20-%20Connect%20the%20Dots/solution.cpp) |
