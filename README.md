@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 21 | 23 |
+| 22 | 23 |
 
 ---
 
@@ -15,7 +15,7 @@
 - [Uncategorized](#uncategorized) (1)
 - [binary search](#binary-search) (4)
 - [bitmasks](#bitmasks) (2)
-- [brute force](#brute-force) (9)
+- [brute force](#brute-force) (10)
 - [constructive algorithms](#constructive-algorithms) (5)
 - [dfs and similar](#dfs-and-similar) (2)
 - [dp](#dp) (5)
@@ -25,7 +25,7 @@
 - [geometry](#geometry) (1)
 - [graph matchings](#graph-matchings) (1)
 - [graphs](#graphs) (3)
-- [greedy](#greedy) (6)
+- [greedy](#greedy) (7)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (3)
 - [math](#math) (10)
@@ -65,6 +65,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 22A | [Second Order Statistics](https://codeforces.com/contest/22/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/22/A%20-%20Second%20Order%20Statistics/solution.cpp) |
+| 23A | [You're Given a String...](https://codeforces.com/contest/23/problem/A) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/23/A%20-%20You're%20Given%20a%20String.../solution.cpp) |
 | 35C | [Fire Again](https://codeforces.com/contest/35/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/35/C%20-%20Fire%20Again/solution.cpp) |
 | 2020A | [Find Minimum Operations](https://codeforces.com/contest/2020/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2020/A%20-%20Find%20Minimum%20Operations/solution.cpp) |
 | 2020D | [Connect the Dots](https://codeforces.com/contest/2020/problem/D) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2020/D%20-%20Connect%20the%20Dots/solution.cpp) |
@@ -144,6 +145,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 22D | [Segments](https://codeforces.com/contest/22/problem/D) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/22/D%20-%20Segments/solution.cpp) |
+| 23A | [You're Given a String...](https://codeforces.com/contest/23/problem/A) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/23/A%20-%20You're%20Given%20a%20String.../solution.cpp) |
 | 34B | [Sale](https://codeforces.com/contest/34/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/34/B%20-%20Sale/solution.cpp) |
 | 1861B | [Two Binary Strings](https://codeforces.com/contest/1861/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1861/B%20-%20Two%20Binary%20Strings/solution.cpp) |
 | 2020A | [Find Minimum Operations](https://codeforces.com/contest/2020/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2020/A%20-%20Find%20Minimum%20Operations/solution.cpp) |
