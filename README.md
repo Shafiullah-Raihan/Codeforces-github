@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 20 | 23 |
+| 21 | 23 |
 
 ---
 
@@ -25,14 +25,14 @@
 - [geometry](#geometry) (1)
 - [graph matchings](#graph-matchings) (1)
 - [graphs](#graphs) (3)
-- [greedy](#greedy) (5)
+- [greedy](#greedy) (6)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (3)
 - [math](#math) (10)
 - [number theory](#number-theory) (3)
 - [schedules](#schedules) (2)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (1)
+- [sortings](#sortings) (2)
 - [ternary search](#ternary-search) (1)
 - [trees](#trees) (1)
 
@@ -143,6 +143,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 22D | [Segments](https://codeforces.com/contest/22/problem/D) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/22/D%20-%20Segments/solution.cpp) |
 | 34B | [Sale](https://codeforces.com/contest/34/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/34/B%20-%20Sale/solution.cpp) |
 | 1861B | [Two Binary Strings](https://codeforces.com/contest/1861/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1861/B%20-%20Two%20Binary%20Strings/solution.cpp) |
 | 2020A | [Find Minimum Operations](https://codeforces.com/contest/2020/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2020/A%20-%20Find%20Minimum%20Operations/solution.cpp) |
@@ -203,6 +204,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 22D | [Segments](https://codeforces.com/contest/22/problem/D) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/22/D%20-%20Segments/solution.cpp) |
 | 34B | [Sale](https://codeforces.com/contest/34/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/34/B%20-%20Sale/solution.cpp) |
 
 ### ternary search
