@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 81 | 25 |
+| 82 | 25 |
 
 ---
 
@@ -14,10 +14,10 @@
 
 - [*special](#special) (2)
 - [binary search](#binary-search) (9)
-- [bitmasks](#bitmasks) (4)
+- [bitmasks](#bitmasks) (5)
 - [brute force](#brute-force) (12)
 - [combinatorics](#combinatorics) (2)
-- [constructive algorithms](#constructive-algorithms) (10)
+- [constructive algorithms](#constructive-algorithms) (11)
 - [data structures](#data-structures) (3)
 - [dfs and similar](#dfs-and-similar) (1)
 - [divide and conquer](#divide-and-conquer) (1)
@@ -29,7 +29,7 @@
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (34)
 - [interactive](#interactive) (2)
-- [math](#math) (34)
+- [math](#math) (35)
 - [number theory](#number-theory) (14)
 - [probabilities](#probabilities) (1)
 - [shortest paths](#shortest-paths) (1)
@@ -67,6 +67,7 @@
 |---|---------|------------|----------|
 | 1870B | [Friendly Arrays](https://codeforces.com/contest/1870/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1870/B%20-%20Friendly%20Arrays/solution.cpp) |
 | 2020A | [Find Minimum Operations](https://codeforces.com/contest/2020/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2020/A%20-%20Find%20Minimum%20Operations/solution.cpp) |
+| 2035C | [Alya and Permutation](https://codeforces.com/contest/2035/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2035/C%20-%20Alya%20and%20Permutation/solution.cpp) |
 | 2094E | [Boneca Ambalabu](https://codeforces.com/contest/2094/problem/E) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2094/E%20-%20Boneca%20Ambalabu/solution.cpp) |
 | 2125C | [Count Good Numbers](https://codeforces.com/contest/2125/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2125/C%20-%20Count%20Good%20Numbers/solution.cpp) |
 
@@ -104,6 +105,7 @@
 | 1837C | [Best Binary String](https://codeforces.com/contest/1837/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1837/C%20-%20Best%20Binary%20String/solution.cpp) |
 | 1861B | [Two Binary Strings](https://codeforces.com/contest/1861/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1861/B%20-%20Two%20Binary%20Strings/solution.cpp) |
 | 1894B | [Two Out of Three](https://codeforces.com/contest/1894/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1894/B%20-%20Two%20Out%20of%20Three/solution.cpp) |
+| 2035C | [Alya and Permutation](https://codeforces.com/contest/2035/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2035/C%20-%20Alya%20and%20Permutation/solution.cpp) |
 | 2072E | [Do You Love Your Hero and His Two-Hit Multi-Target Attacks?](https://codeforces.com/contest/2072/problem/E) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2072/E%20-%20Do%20You%20Love%20Your%20Hero%20and%20His%20Two-Hit%20Multi-Target%20Attacks%3F/solution.cpp) |
 | 2115A | [Gellyfish and Flaming Peony](https://codeforces.com/contest/2115/problem/A) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2115/A%20-%20Gellyfish%20and%20Flaming%20Peony/solution.cpp) |
 | 2125A | [Difficult Contest](https://codeforces.com/contest/2125/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2125/A%20-%20Difficult%20Contest/solution.cpp) |
@@ -274,6 +276,7 @@
 | 1872C | [Non-coprime Split](https://codeforces.com/contest/1872/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1872/C%20-%20Non-coprime%20Split/solution.cpp) |
 | 1899D | [Yarik and Musical Notes](https://codeforces.com/contest/1899/problem/D) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1899/D%20-%20Yarik%20and%20Musical%20Notes/solution.cpp) |
 | 2020A | [Find Minimum Operations](https://codeforces.com/contest/2020/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2020/A%20-%20Find%20Minimum%20Operations/solution.cpp) |
+| 2035C | [Alya and Permutation](https://codeforces.com/contest/2035/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2035/C%20-%20Alya%20and%20Permutation/solution.cpp) |
 | 2035D | [Yet Another Real Number Problem](https://codeforces.com/contest/2035/problem/D) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2035/D%20-%20Yet%20Another%20Real%20Number%20Problem/solution.cpp) |
 | 2072E | [Do You Love Your Hero and His Two-Hit Multi-Target Attacks?](https://codeforces.com/contest/2072/problem/E) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2072/E%20-%20Do%20You%20Love%20Your%20Hero%20and%20His%20Two-Hit%20Multi-Target%20Attacks%3F/solution.cpp) |
 | 2114D | [Come a Little Closer](https://codeforces.com/contest/2114/problem/D) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2114/D%20-%20Come%20a%20Little%20Closer/solution.cpp) |
