@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 30 | 25 |
+| 31 | 25 |
 
 ---
 
@@ -18,7 +18,7 @@
 - [brute force](#brute-force) (10)
 - [constructive algorithms](#constructive-algorithms) (6)
 - [dfs and similar](#dfs-and-similar) (2)
-- [dp](#dp) (7)
+- [dp](#dp) (8)
 - [dsu](#dsu) (1)
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (1)
@@ -100,6 +100,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 14E | [Camels](https://codeforces.com/contest/14/problem/E) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/14/E%20-%20Camels/solution.cpp) |
 | 16E | [Fish](https://codeforces.com/contest/16/problem/E) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/16/E%20-%20Fish/solution.cpp) |
 | 19B | [Checkout Assistant](https://codeforces.com/contest/19/problem/B) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/19/B%20-%20Checkout%20Assistant/solution.cpp) |
 | 1861B | [Two Binary Strings](https://codeforces.com/contest/1861/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1861/B%20-%20Two%20Binary%20Strings/solution.cpp) |
