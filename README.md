@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 29 | 25 |
+| 30 | 25 |
 
 ---
 
@@ -27,14 +27,14 @@
 - [graphs](#graphs) (4)
 - [greedy](#greedy) (8)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (5)
+- [implementation](#implementation) (6)
 - [math](#math) (10)
 - [number theory](#number-theory) (3)
 - [probabilities](#probabilities) (1)
 - [schedules](#schedules) (2)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (2)
-- [strings](#strings) (1)
+- [strings](#strings) (2)
 - [ternary search](#ternary-search) (1)
 - [trees](#trees) (1)
 
@@ -171,6 +171,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 13A | [Numbers](https://codeforces.com/contest/13/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/13/A%20-%20Numbers/solution.cpp) |
+| 16D | [Logging](https://codeforces.com/contest/16/problem/D) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/16/D%20-%20Logging/solution.cpp) |
 | 21A | [Jabber ID](https://codeforces.com/contest/21/problem/A) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/21/A%20-%20Jabber%20ID/solution.cpp) |
 | 25B | [Phone numbers](https://codeforces.com/contest/25/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/25/B%20-%20Phone%20numbers/solution.cpp) |
 | 2020C | [Bitwise Balancing](https://codeforces.com/contest/2020/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2020/C%20-%20Bitwise%20Balancing/solution.cpp) |
@@ -229,6 +230,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 16D | [Logging](https://codeforces.com/contest/16/problem/D) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/16/D%20-%20Logging/solution.cpp) |
 | 21A | [Jabber ID](https://codeforces.com/contest/21/problem/A) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/21/A%20-%20Jabber%20ID/solution.cpp) |
 
 ### ternary search
