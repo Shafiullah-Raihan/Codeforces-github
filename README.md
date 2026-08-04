@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 91 | 25 |
+| 92 | 25 |
 
 ---
 
@@ -24,12 +24,12 @@
 - [dp](#dp) (13)
 - [expression parsing](#expression-parsing) (2)
 - [games](#games) (2)
-- [geometry](#geometry) (5)
+- [geometry](#geometry) (6)
 - [greedy](#greedy) (25)
 - [hashing](#hashing) (3)
-- [implementation](#implementation) (36)
+- [implementation](#implementation) (37)
 - [interactive](#interactive) (2)
-- [math](#math) (40)
+- [math](#math) (41)
 - [number theory](#number-theory) (15)
 - [probabilities](#probabilities) (2)
 - [shortest paths](#shortest-paths) (1)
@@ -172,6 +172,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 14C | [Four Segments](https://codeforces.com/contest/14/problem/C) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/14/C%20-%20Four%20Segments/solution.cpp) |
+| 24C | [Sequence of points](https://codeforces.com/contest/24/problem/C) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/24/C%20-%20Sequence%20of%20points/solution.cpp) |
 | 127A | [Wasted Time](https://codeforces.com/contest/127/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/127/A%20-%20Wasted%20Time/solution.cpp) |
 | 1398A | [Bad Triangle](https://codeforces.com/contest/1398/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1398/A%20-%20Bad%20Triangle/solution.cpp) |
 | 1845B | [Come Together](https://codeforces.com/contest/1845/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1845/B%20-%20Come%20Together/solution.cpp) |
@@ -227,6 +228,7 @@
 | 14B | [Young Photographer](https://codeforces.com/contest/14/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/14/B%20-%20Young%20Photographer/solution.cpp) |
 | 14C | [Four Segments](https://codeforces.com/contest/14/problem/C) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/14/C%20-%20Four%20Segments/solution.cpp) |
 | 24B | [F1 Champions](https://codeforces.com/contest/24/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/24/B%20-%20F1%20Champions/solution.cpp) |
+| 24C | [Sequence of points](https://codeforces.com/contest/24/problem/C) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/24/C%20-%20Sequence%20of%20points/solution.cpp) |
 | 29B | [Traffic Lights](https://codeforces.com/contest/29/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/29/B%20-%20Traffic%20Lights/solution.cpp) |
 | 30B | [Codeforces World Finals](https://codeforces.com/contest/30/problem/B) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/30/B%20-%20Codeforces%20World%20Finals/solution.cpp) |
 | 31A | [Worms Evolution](https://codeforces.com/contest/31/problem/A) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/31/A%20-%20Worms%20Evolution/solution.cpp) |
@@ -271,6 +273,7 @@
 | 11B | [Jumping Jack](https://codeforces.com/contest/11/problem/B) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/11/B%20-%20Jumping%20Jack/solution.cpp) |
 | 13A | [Numbers](https://codeforces.com/contest/13/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/13/A%20-%20Numbers/solution.cpp) |
 | 14C | [Four Segments](https://codeforces.com/contest/14/problem/C) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/14/C%20-%20Four%20Segments/solution.cpp) |
+| 24C | [Sequence of points](https://codeforces.com/contest/24/problem/C) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/24/C%20-%20Sequence%20of%20points/solution.cpp) |
 | 30A | [Accounting](https://codeforces.com/contest/30/problem/A) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/30/A%20-%20Accounting/solution.cpp) |
 | 62A | [A Student's Dream](https://codeforces.com/contest/62/problem/A) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/62/A%20-%20A%20Student's%20Dream/solution.cpp) |
 | 76E | [Points](https://codeforces.com/contest/76/problem/E) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/76/E%20-%20Points/solution.cpp) |
