@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 94 | 25 |
+| 95 | 25 |
 
 ---
 
@@ -29,8 +29,8 @@
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (37)
 - [interactive](#interactive) (2)
-- [math](#math) (42)
-- [number theory](#number-theory) (16)
+- [math](#math) (43)
+- [number theory](#number-theory) (17)
 - [probabilities](#probabilities) (2)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (11)
@@ -270,6 +270,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 7C | [Line](https://codeforces.com/contest/7/problem/C) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/7/C%20-%20Line/solution.cpp) |
 | 11A | [Increasing Sequence](https://codeforces.com/contest/11/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/11/A%20-%20Increasing%20Sequence/solution.cpp) |
 | 11B | [Jumping Jack](https://codeforces.com/contest/11/problem/B) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/11/B%20-%20Jumping%20Jack/solution.cpp) |
 | 13A | [Numbers](https://codeforces.com/contest/13/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/13/A%20-%20Numbers/solution.cpp) |
@@ -317,6 +318,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 7C | [Line](https://codeforces.com/contest/7/problem/C) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/7/C%20-%20Line/solution.cpp) |
 | 16C | [Monitor](https://codeforces.com/contest/16/problem/C) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/16/C%20-%20Monitor/solution.cpp) |
 | 59B | [Fortune Telling](https://codeforces.com/contest/59/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/59/B%20-%20Fortune%20Telling/solution.cpp) |
 | 75C | [Modified GCD](https://codeforces.com/contest/75/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/75/C%20-%20Modified%20GCD/solution.cpp) |
