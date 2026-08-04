@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 95 | 25 |
+| 96 | 25 |
 
 ---
 
@@ -15,7 +15,7 @@
 - [*special](#special) (2)
 - [binary search](#binary-search) (11)
 - [bitmasks](#bitmasks) (5)
-- [brute force](#brute-force) (12)
+- [brute force](#brute-force) (13)
 - [combinatorics](#combinatorics) (2)
 - [constructive algorithms](#constructive-algorithms) (12)
 - [data structures](#data-structures) (5)
@@ -23,11 +23,11 @@
 - [divide and conquer](#divide-and-conquer) (1)
 - [dp](#dp) (13)
 - [expression parsing](#expression-parsing) (2)
-- [games](#games) (2)
+- [games](#games) (3)
 - [geometry](#geometry) (6)
 - [greedy](#greedy) (25)
 - [hashing](#hashing) (3)
-- [implementation](#implementation) (37)
+- [implementation](#implementation) (38)
 - [interactive](#interactive) (2)
 - [math](#math) (43)
 - [number theory](#number-theory) (17)
@@ -77,6 +77,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 3C | [Tic-tac-toe](https://codeforces.com/contest/3/problem/C) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/3/C%20-%20Tic-tac-toe/solution.cpp) |
 | 14C | [Four Segments](https://codeforces.com/contest/14/problem/C) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/14/C%20-%20Four%20Segments/solution.cpp) |
 | 22B | [Bargaining Table](https://codeforces.com/contest/22/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/22/B%20-%20Bargaining%20Table/solution.cpp) |
 | 29A | [Spit Problem](https://codeforces.com/contest/29/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/29/A%20-%20Spit%20Problem/solution.cpp) |
@@ -165,6 +166,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 3C | [Tic-tac-toe](https://codeforces.com/contest/3/problem/C) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/3/C%20-%20Tic-tac-toe/solution.cpp) |
 | 1398B | [Substring Removal Game](https://codeforces.com/contest/1398/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1398/B%20-%20Substring%20Removal%20Game/solution.cpp) |
 | 1848A | [Vika and Her Friends](https://codeforces.com/contest/1848/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1848/A%20-%20Vika%20and%20Her%20Friends/solution.cpp) |
 
@@ -221,6 +223,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 3C | [Tic-tac-toe](https://codeforces.com/contest/3/problem/C) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/3/C%20-%20Tic-tac-toe/solution.cpp) |
 | 10B | [Cinema Cashier](https://codeforces.com/contest/10/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/10/B%20-%20Cinema%20Cashier/solution.cpp) |
 | 11A | [Increasing Sequence](https://codeforces.com/contest/11/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/11/A%20-%20Increasing%20Sequence/solution.cpp) |
 | 11C | [How Many Squares?](https://codeforces.com/contest/11/problem/C) | 2200 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/11/C%20-%20How%20Many%20Squares%3F/solution.cpp) |
