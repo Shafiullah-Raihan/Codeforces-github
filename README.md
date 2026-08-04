@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 93 | 25 |
+| 94 | 25 |
 
 ---
 
@@ -29,7 +29,7 @@
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (37)
 - [interactive](#interactive) (2)
-- [math](#math) (41)
+- [math](#math) (42)
 - [number theory](#number-theory) (16)
 - [probabilities](#probabilities) (2)
 - [shortest paths](#shortest-paths) (1)
@@ -274,6 +274,7 @@
 | 11B | [Jumping Jack](https://codeforces.com/contest/11/problem/B) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/11/B%20-%20Jumping%20Jack/solution.cpp) |
 | 13A | [Numbers](https://codeforces.com/contest/13/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/13/A%20-%20Numbers/solution.cpp) |
 | 14C | [Four Segments](https://codeforces.com/contest/14/problem/C) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/14/C%20-%20Four%20Segments/solution.cpp) |
+| 15B | [Laser](https://codeforces.com/contest/15/problem/B) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/15/B%20-%20Laser/solution.cpp) |
 | 24C | [Sequence of points](https://codeforces.com/contest/24/problem/C) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/24/C%20-%20Sequence%20of%20points/solution.cpp) |
 | 30A | [Accounting](https://codeforces.com/contest/30/problem/A) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/30/A%20-%20Accounting/solution.cpp) |
 | 62A | [A Student's Dream](https://codeforces.com/contest/62/problem/A) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/62/A%20-%20A%20Student's%20Dream/solution.cpp) |
