@@ -6,19 +6,19 @@
 
 | Total Problems | Topics |
 |---|---|
-| 101 | 26 |
+| 102 | 26 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (2)
-- [binary search](#binary-search) (12)
+- [binary search](#binary-search) (13)
 - [bitmasks](#bitmasks) (5)
 - [brute force](#brute-force) (15)
 - [combinatorics](#combinatorics) (2)
 - [constructive algorithms](#constructive-algorithms) (12)
-- [data structures](#data-structures) (6)
+- [data structures](#data-structures) (7)
 - [dfs and similar](#dfs-and-similar) (1)
 - [divide and conquer](#divide-and-conquer) (1)
 - [dp](#dp) (15)
@@ -26,18 +26,18 @@
 - [expression parsing](#expression-parsing) (2)
 - [games](#games) (4)
 - [geometry](#geometry) (6)
-- [greedy](#greedy) (29)
+- [greedy](#greedy) (30)
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (40)
 - [interactive](#interactive) (2)
-- [math](#math) (44)
+- [math](#math) (45)
 - [number theory](#number-theory) (17)
 - [probabilities](#probabilities) (2)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (12)
 - [string suffix structures](#string-suffix-structures) (1)
 - [strings](#strings) (8)
-- [two pointers](#two-pointers) (4)
+- [two pointers](#two-pointers) (5)
 
 ---
 
@@ -64,6 +64,7 @@
 | 2035D | [Yet Another Real Number Problem](https://codeforces.com/contest/2035/problem/D) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2035/D%20-%20Yet%20Another%20Real%20Number%20Problem/solution.cpp) |
 | 2072E | [Do You Love Your Hero and His Two-Hit Multi-Target Attacks?](https://codeforces.com/contest/2072/problem/E) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2072/E%20-%20Do%20You%20Love%20Your%20Hero%20and%20His%20Two-Hit%20Multi-Target%20Attacks%3F/solution.cpp) |
 | 2117D | [Retaliation](https://codeforces.com/contest/2117/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2117/D%20-%20Retaliation/solution.cpp) |
+| 2226C | [Mental Monumental (Easy Version)](https://codeforces.com/contest/2226/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2226/C%20-%20Mental%20Monumental%20(Easy%20Version)/solution.cpp) |
 
 ### bitmasks
 
@@ -129,6 +130,7 @@
 | 1927D | [Find the Different Ones!](https://codeforces.com/contest/1927/problem/D) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1927/D%20-%20Find%20the%20Different%20Ones!/solution.cpp) |
 | 2035D | [Yet Another Real Number Problem](https://codeforces.com/contest/2035/problem/D) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2035/D%20-%20Yet%20Another%20Real%20Number%20Problem/solution.cpp) |
 | 2117C | [Cool Partition](https://codeforces.com/contest/2117/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2117/C%20-%20Cool%20Partition/solution.cpp) |
+| 2226C | [Mental Monumental (Easy Version)](https://codeforces.com/contest/2226/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2226/C%20-%20Mental%20Monumental%20(Easy%20Version)/solution.cpp) |
 
 ### dfs and similar
 
@@ -227,6 +229,7 @@
 | 2114D | [Come a Little Closer](https://codeforces.com/contest/2114/problem/D) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2114/D%20-%20Come%20a%20Little%20Closer/solution.cpp) |
 | 2116B | [Gellyfish and Baby's Breath](https://codeforces.com/contest/2116/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2116/B%20-%20Gellyfish%20and%20Baby's%20Breath/solution.cpp) |
 | 2117C | [Cool Partition](https://codeforces.com/contest/2117/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2117/C%20-%20Cool%20Partition/solution.cpp) |
+| 2226C | [Mental Monumental (Easy Version)](https://codeforces.com/contest/2226/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2226/C%20-%20Mental%20Monumental%20(Easy%20Version)/solution.cpp) |
 | 2237B | [Annoying the Ghost](https://codeforces.com/contest/2237/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2237/B%20-%20Annoying%20the%20Ghost/solution.cpp) |
 
 ### hashing
@@ -337,6 +340,7 @@
 | 2125B | [Left and Down](https://codeforces.com/contest/2125/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2125/B%20-%20Left%20and%20Down/solution.cpp) |
 | 2125C | [Count Good Numbers](https://codeforces.com/contest/2125/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2125/C%20-%20Count%20Good%20Numbers/solution.cpp) |
 | 2125D | [Segments Covering](https://codeforces.com/contest/2125/problem/D) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2125/D%20-%20Segments%20Covering/solution.cpp) |
+| 2226C | [Mental Monumental (Easy Version)](https://codeforces.com/contest/2226/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2226/C%20-%20Mental%20Monumental%20(Easy%20Version)/solution.cpp) |
 
 ### number theory
 
@@ -417,6 +421,7 @@
 | 1407C | [Chocolate Bunny](https://codeforces.com/contest/1407/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1407/C%20-%20Chocolate%20Bunny/solution.cpp) |
 | 1870C | [Colorful Table](https://codeforces.com/contest/1870/problem/C) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1870/C%20-%20Colorful%20Table/solution.cpp) |
 | 1927D | [Find the Different Ones!](https://codeforces.com/contest/1927/problem/D) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1927/D%20-%20Find%20the%20Different%20Ones!/solution.cpp) |
+| 2226C | [Mental Monumental (Easy Version)](https://codeforces.com/contest/2226/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2226/C%20-%20Mental%20Monumental%20(Easy%20Version)/solution.cpp) |
 
 ---
 
