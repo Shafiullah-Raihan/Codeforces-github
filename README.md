@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 97 | 25 |
+| 98 | 25 |
 
 ---
 
@@ -21,13 +21,13 @@
 - [data structures](#data-structures) (5)
 - [dfs and similar](#dfs-and-similar) (1)
 - [divide and conquer](#divide-and-conquer) (1)
-- [dp](#dp) (13)
+- [dp](#dp) (14)
 - [expression parsing](#expression-parsing) (2)
 - [games](#games) (4)
 - [geometry](#geometry) (6)
 - [greedy](#greedy) (26)
 - [hashing](#hashing) (3)
-- [implementation](#implementation) (38)
+- [implementation](#implementation) (39)
 - [interactive](#interactive) (2)
 - [math](#math) (44)
 - [number theory](#number-theory) (17)
@@ -150,6 +150,7 @@
 | 1398D | [Colored Rectangles](https://codeforces.com/contest/1398/problem/D) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1398/D%20-%20Colored%20Rectangles/solution.cpp) |
 | 1861B | [Two Binary Strings](https://codeforces.com/contest/1861/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1861/B%20-%20Two%20Binary%20Strings/solution.cpp) |
 | 1870C | [Colorful Table](https://codeforces.com/contest/1870/problem/C) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1870/C%20-%20Colorful%20Table/solution.cpp) |
+| 1926C | [Vlad and a Sum of Sum of Digits](https://codeforces.com/contest/1926/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1926/C%20-%20Vlad%20and%20a%20Sum%20of%20Sum%20of%20Digits/solution.cpp) |
 | 2072E | [Do You Love Your Hero and His Two-Hit Multi-Target Attacks?](https://codeforces.com/contest/2072/problem/E) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2072/E%20-%20Do%20You%20Love%20Your%20Hero%20and%20His%20Two-Hit%20Multi-Target%20Attacks%3F/solution.cpp) |
 | 2114C | [Need More Arrays](https://codeforces.com/contest/2114/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2114/C%20-%20Need%20More%20Arrays/solution.cpp) |
 | 2115A | [Gellyfish and Flaming Peony](https://codeforces.com/contest/2115/problem/A) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2115/A%20-%20Gellyfish%20and%20Flaming%20Peony/solution.cpp) |
@@ -259,6 +260,7 @@
 | 1870C | [Colorful Table](https://codeforces.com/contest/1870/problem/C) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1870/C%20-%20Colorful%20Table/solution.cpp) |
 | 1881C | [Perfect Square](https://codeforces.com/contest/1881/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1881/C%20-%20Perfect%20Square/solution.cpp) |
 | 1898A | [Milica and String](https://codeforces.com/contest/1898/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1898/A%20-%20Milica%20and%20String/solution.cpp) |
+| 1926C | [Vlad and a Sum of Sum of Digits](https://codeforces.com/contest/1926/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1926/C%20-%20Vlad%20and%20a%20Sum%20of%20Sum%20of%20Digits/solution.cpp) |
 | 2035A | [Sliding](https://codeforces.com/contest/2035/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2035/A%20-%20Sliding/solution.cpp) |
 | 2035D | [Yet Another Real Number Problem](https://codeforces.com/contest/2035/problem/D) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2035/D%20-%20Yet%20Another%20Real%20Number%20Problem/solution.cpp) |
 | 2114D | [Come a Little Closer](https://codeforces.com/contest/2114/problem/D) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2114/D%20-%20Come%20a%20Little%20Closer/solution.cpp) |
