@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 103 | 26 |
+| 104 | 26 |
 
 ---
 
@@ -25,10 +25,10 @@
 - [dsu](#dsu) (1)
 - [expression parsing](#expression-parsing) (2)
 - [games](#games) (4)
-- [geometry](#geometry) (6)
+- [geometry](#geometry) (7)
 - [greedy](#greedy) (30)
 - [hashing](#hashing) (3)
-- [implementation](#implementation) (40)
+- [implementation](#implementation) (41)
 - [interactive](#interactive) (2)
 - [math](#math) (45)
 - [number theory](#number-theory) (17)
@@ -197,6 +197,7 @@
 | 24C | [Sequence of points](https://codeforces.com/contest/24/problem/C) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/24/C%20-%20Sequence%20of%20points/solution.cpp) |
 | 127A | [Wasted Time](https://codeforces.com/contest/127/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/127/A%20-%20Wasted%20Time/solution.cpp) |
 | 1398A | [Bad Triangle](https://codeforces.com/contest/1398/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1398/A%20-%20Bad%20Triangle/solution.cpp) |
+| 1791B | [Following Directions](https://codeforces.com/contest/1791/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1791/B%20-%20Following%20Directions/solution.cpp) |
 | 1845B | [Come Together](https://codeforces.com/contest/1845/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1845/B%20-%20Come%20Together/solution.cpp) |
 | 2072E | [Do You Love Your Hero and His Two-Hit Multi-Target Attacks?](https://codeforces.com/contest/2072/problem/E) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2072/E%20-%20Do%20You%20Love%20Your%20Hero%20and%20His%20Two-Hit%20Multi-Target%20Attacks%3F/solution.cpp) |
 
@@ -277,6 +278,7 @@
 | 577A | [Multiplication Table](https://codeforces.com/contest/577/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/577/A%20-%20Multiplication%20Table/solution.cpp) |
 | 1380C | [Create The Teams](https://codeforces.com/contest/1380/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1380/C%20-%20Create%20The%20Teams/solution.cpp) |
 | 1398E | [Two Types of Spells](https://codeforces.com/contest/1398/problem/E) | 2200 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1398/E%20-%20Two%20Types%20of%20Spells/solution.cpp) |
+| 1791B | [Following Directions](https://codeforces.com/contest/1791/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1791/B%20-%20Following%20Directions/solution.cpp) |
 | 1845B | [Come Together](https://codeforces.com/contest/1845/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1845/B%20-%20Come%20Together/solution.cpp) |
 | 1870C | [Colorful Table](https://codeforces.com/contest/1870/problem/C) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1870/C%20-%20Colorful%20Table/solution.cpp) |
 | 1881C | [Perfect Square](https://codeforces.com/contest/1881/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1881/C%20-%20Perfect%20Square/solution.cpp) |
