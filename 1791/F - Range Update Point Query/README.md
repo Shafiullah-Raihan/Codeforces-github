@@ -1,0 +1,26 @@
+<h2><a href="https://codeforces.com/contest/1791/problem/F" target="_blank" rel="noopener noreferrer">1791F — Range Update Point Query</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 1500 |
+| **Language** | C++23 (GCC 14-64, msys2) |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 1791F](https://codeforces.com/contest/1791/problem/F) |
+
+## Topics
+`binary search` `brute force` `data structures`
+
+---
+
+## Problem Statement
+
+<div class="header"><div class="title">F. Range Update Point Query</div><div class="time-limit"><div class="property-title">time limit per test</div>2 seconds</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file input-standard"><div class="property-title">input</div>standard input</div><div class="output-file output-standard"><div class="property-title">output</div>standard output</div></div><div><p>Given an array $$$a_1, a_2, \dots, a_n$$$, you need to handle a total of $$$q$$$ updates and queries of two types:</p><ul> <li> $$$1$$$ $$$l$$$ $$$r$$$ — for each index $$$i$$$ with $$$l \leq i \leq r$$$, update the value of $$$a_i$$$ to the sum of the digits of $$$a_i$$$. </li><li> $$$2$$$ $$$x$$$ — output $$$a_x$$$. </li></ul></div><div class="input-specification"><div class="section-title">Input</div><p>The first line of the input contains an integer $$$t$$$ ($$$1 \leq t \leq 1000$$$) — the number of testcases.</p><p>The first line of each test case contains two integers $$$n$$$ and $$$q$$$ ($$$1 \le n, q \le 2 \cdot 10^5$$$) — the size of the array and the number of queries, respectively.</p><p>The second line of each test case contains $$$n$$$ integers $$$a_1, a_2, \dots, a_n$$$ ($$$1 \le a_i \le 10^9$$$).</p><p>The next $$$q$$$ lines of each test case are of two forms:</p><ul> <li> $$$1$$$ $$$l$$$ $$$r$$$ ($$$1 \leq l \leq r \leq n$$$) — it means, for each index $$$i$$$ with $$$l \leq i \leq r$$$, you should update the value of $$$a_i$$$ to the sum of its digits. </li><li> $$$2$$$ $$$x$$$ ($$$1 \leq x \leq n$$$) — it means you should output $$$a_x$$$. </li></ul><p>There is at least one query of the second type.</p><p>The sum of $$$n$$$ over all test cases does not exceed $$$2 \cdot 10^5$$$.</p><p>The sum of $$$q$$$ over all test cases does not exceed $$$2 \cdot 10^5$$$.</p></div><div class="output-specification"><div class="section-title">Output</div><p>For each test case, output the answers of queries of the second type, in the order they are given.</p></div><div class="sample-tests"><div class="section-title">Example</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id0008106133504600999" id="id0003909275376807231" class="input-output-copier">Copy</div></div><pre id="id0008106133504600999"><div class="test-example-line test-example-line-even test-example-line-0">3</div><div class="test-example-line test-example-line-odd test-example-line-1">5 8</div><div class="test-example-line test-example-line-odd test-example-line-1">1 420 69 1434 2023</div><div class="test-example-line test-example-line-odd test-example-line-1">1 2 3</div><div class="test-example-line test-example-line-odd test-example-line-1">2 2</div><div class="test-example-line test-example-line-odd test-example-line-1">2 3</div><div class="test-example-line test-example-line-odd test-example-line-1">2 4</div><div class="test-example-line test-example-line-odd test-example-line-1">1 2 5</div><div class="test-example-line test-example-line-odd test-example-line-1">2 1</div><div class="test-example-line test-example-line-odd test-example-line-1">2 3</div><div class="test-example-line test-example-line-odd test-example-line-1">2 5</div><div class="test-example-line test-example-line-even test-example-line-2">2 3</div><div class="test-example-line test-example-line-even test-example-line-2">9999 1000</div><div class="test-example-line test-example-line-even test-example-line-2">1 1 2</div><div class="test-example-line test-example-line-even test-example-line-2">2 1</div><div class="test-example-line test-example-line-even test-example-line-2">2 2</div><div class="test-example-line test-example-line-odd test-example-line-3">1 1</div><div class="test-example-line test-example-line-odd test-example-line-3">1</div><div class="test-example-line test-example-line-odd test-example-line-3">2 1</div></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id0020993931421842915" id="id00010829765257628132" class="input-output-copier">Copy</div></div><pre id="id0020993931421842915">6
+15
+1434
+1
+6
+7
+36
+1
+1
+</pre></div></div></div><div class="note"><div class="section-title">Note</div><p>In the first test case, the following process occurs: </p><ul> <li> Initially, $$$a = [1, 420, 69, 1434, 2023]$$$. </li><li> The operation is performed for $$$l=2$$$, $$$r=3$$$, yielding $$$[1, \color{red}{6}, \color{red}{15}, 1434, 2023]$$$. </li><li> We are queried for $$$x=2$$$, $$$x=3$$$, and $$$x=4$$$, and output $$$6$$$, $$$15$$$, and $$$1434$$$. </li><li> The operation is performed for $$$l=2$$$, $$$r=5$$$, yielding $$$[1, \color{red}{6}, \color{red}{6}, \color{red}{12}, \color{red}{7}]$$$. </li><li> We are queried for $$$x=1$$$, $$$x=3$$$, and $$$x=5$$$, and output $$$1$$$, $$$6$$$, and $$$7$$$. </li></ul></div>
