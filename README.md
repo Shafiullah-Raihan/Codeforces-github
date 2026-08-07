@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 38 | 29 |
+| 39 | 29 |
 
 ---
 
@@ -28,15 +28,15 @@
 - [geometry](#geometry) (2)
 - [graph matchings](#graph-matchings) (1)
 - [graphs](#graphs) (5)
-- [greedy](#greedy) (10)
+- [greedy](#greedy) (11)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (7)
-- [math](#math) (10)
+- [math](#math) (11)
 - [number theory](#number-theory) (3)
 - [probabilities](#probabilities) (1)
 - [schedules](#schedules) (2)
 - [shortest paths](#shortest-paths) (2)
-- [sortings](#sortings) (4)
+- [sortings](#sortings) (5)
 - [strings](#strings) (3)
 - [ternary search](#ternary-search) (1)
 - [trees](#trees) (3)
@@ -191,6 +191,7 @@
 | 23A | [You're Given a String...](https://codeforces.com/contest/23/problem/A) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/23/A%20-%20You're%20Given%20a%20String.../solution.cpp) |
 | 26B | [Regular Bracket Sequence](https://codeforces.com/contest/26/problem/B) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/26/B%20-%20Regular%20Bracket%20Sequence/solution.cpp) |
 | 34B | [Sale](https://codeforces.com/contest/34/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/34/B%20-%20Sale/solution.cpp) |
+| 81C | [Average Score](https://codeforces.com/contest/81/problem/C) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/81/C%20-%20Average%20Score/solution.cpp) |
 | 1861B | [Two Binary Strings](https://codeforces.com/contest/1861/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1861/B%20-%20Two%20Binary%20Strings/solution.cpp) |
 | 2020A | [Find Minimum Operations](https://codeforces.com/contest/2020/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2020/A%20-%20Find%20Minimum%20Operations/solution.cpp) |
 | 2072E | [Do You Love Your Hero and His Two-Hit Multi-Target Attacks?](https://codeforces.com/contest/2072/problem/E) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2072/E%20-%20Do%20You%20Love%20Your%20Hero%20and%20His%20Two-Hit%20Multi-Target%20Attacks%3F/solution.cpp) |
@@ -219,6 +220,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 13A | [Numbers](https://codeforces.com/contest/13/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/13/A%20-%20Numbers/solution.cpp) |
+| 81C | [Average Score](https://codeforces.com/contest/81/problem/C) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/81/C%20-%20Average%20Score/solution.cpp) |
 | 2020A | [Find Minimum Operations](https://codeforces.com/contest/2020/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2020/A%20-%20Find%20Minimum%20Operations/solution.cpp) |
 | 2020C | [Bitwise Balancing](https://codeforces.com/contest/2020/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2020/C%20-%20Bitwise%20Balancing/solution.cpp) |
 | 2020D | [Connect the Dots](https://codeforces.com/contest/2020/problem/D) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2020/D%20-%20Connect%20the%20Dots/solution.cpp) |
@@ -265,6 +267,7 @@
 | 5C | [Longest Regular Bracket Sequence](https://codeforces.com/contest/5/problem/C) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/5/C%20-%20Longest%20Regular%20Bracket%20Sequence/solution.cpp) |
 | 22D | [Segments](https://codeforces.com/contest/22/problem/D) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/22/D%20-%20Segments/solution.cpp) |
 | 34B | [Sale](https://codeforces.com/contest/34/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/34/B%20-%20Sale/solution.cpp) |
+| 81C | [Average Score](https://codeforces.com/contest/81/problem/C) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/81/C%20-%20Average%20Score/solution.cpp) |
 
 ### strings
 
