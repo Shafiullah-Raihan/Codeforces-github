@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 109 | 26 |
+| 110 | 26 |
 
 ---
 
@@ -15,7 +15,7 @@
 - [*special](#special) (2)
 - [binary search](#binary-search) (14)
 - [bitmasks](#bitmasks) (5)
-- [brute force](#brute-force) (17)
+- [brute force](#brute-force) (18)
 - [combinatorics](#combinatorics) (3)
 - [constructive algorithms](#constructive-algorithms) (13)
 - [data structures](#data-structures) (8)
@@ -28,7 +28,7 @@
 - [geometry](#geometry) (7)
 - [greedy](#greedy) (32)
 - [hashing](#hashing) (3)
-- [implementation](#implementation) (44)
+- [implementation](#implementation) (45)
 - [interactive](#interactive) (3)
 - [math](#math) (47)
 - [number theory](#number-theory) (17)
@@ -97,6 +97,7 @@
 | 2020A | [Find Minimum Operations](https://codeforces.com/contest/2020/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2020/A%20-%20Find%20Minimum%20Operations/solution.cpp) |
 | 2072E | [Do You Love Your Hero and His Two-Hit Multi-Target Attacks?](https://codeforces.com/contest/2072/problem/E) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2072/E%20-%20Do%20You%20Love%20Your%20Hero%20and%20His%20Two-Hit%20Multi-Target%20Attacks%3F/solution.cpp) |
 | 2114D | [Come a Little Closer](https://codeforces.com/contest/2114/problem/D) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2114/D%20-%20Come%20a%20Little%20Closer/solution.cpp) |
+| 2161B | [Make Connected](https://codeforces.com/contest/2161/problem/B) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2161/B%20-%20Make%20Connected/solution.cpp) |
 | 2237B | [Annoying the Ghost](https://codeforces.com/contest/2237/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2237/B%20-%20Annoying%20the%20Ghost/solution.cpp) |
 
 ### combinatorics
@@ -299,6 +300,7 @@
 | 2125A | [Difficult Contest](https://codeforces.com/contest/2125/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2125/A%20-%20Difficult%20Contest/solution.cpp) |
 | 2150B | [Grid Counting](https://codeforces.com/contest/2150/problem/B) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2150/B%20-%20Grid%20Counting/solution.cpp) |
 | 2159A | [MAD Interactive Problem](https://codeforces.com/contest/2159/problem/A) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2159/A%20-%20MAD%20Interactive%20Problem/solution.cpp) |
+| 2161B | [Make Connected](https://codeforces.com/contest/2161/problem/B) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2161/B%20-%20Make%20Connected/solution.cpp) |
 
 ### interactive
 
