@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 108 | 26 |
+| 109 | 26 |
 
 ---
 
@@ -17,7 +17,7 @@
 - [bitmasks](#bitmasks) (5)
 - [brute force](#brute-force) (17)
 - [combinatorics](#combinatorics) (3)
-- [constructive algorithms](#constructive-algorithms) (12)
+- [constructive algorithms](#constructive-algorithms) (13)
 - [data structures](#data-structures) (8)
 - [dfs and similar](#dfs-and-similar) (1)
 - [divide and conquer](#divide-and-conquer) (1)
@@ -28,8 +28,8 @@
 - [geometry](#geometry) (7)
 - [greedy](#greedy) (32)
 - [hashing](#hashing) (3)
-- [implementation](#implementation) (43)
-- [interactive](#interactive) (2)
+- [implementation](#implementation) (44)
+- [interactive](#interactive) (3)
 - [math](#math) (47)
 - [number theory](#number-theory) (17)
 - [probabilities](#probabilities) (2)
@@ -122,6 +122,7 @@
 | 2072E | [Do You Love Your Hero and His Two-Hit Multi-Target Attacks?](https://codeforces.com/contest/2072/problem/E) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2072/E%20-%20Do%20You%20Love%20Your%20Hero%20and%20His%20Two-Hit%20Multi-Target%20Attacks%3F/solution.cpp) |
 | 2115A | [Gellyfish and Flaming Peony](https://codeforces.com/contest/2115/problem/A) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2115/A%20-%20Gellyfish%20and%20Flaming%20Peony/solution.cpp) |
 | 2125A | [Difficult Contest](https://codeforces.com/contest/2125/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2125/A%20-%20Difficult%20Contest/solution.cpp) |
+| 2159A | [MAD Interactive Problem](https://codeforces.com/contest/2159/problem/A) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2159/A%20-%20MAD%20Interactive%20Problem/solution.cpp) |
 | 2246A | [farmpiggie and Subset Sum](https://codeforces.com/contest/2246/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2246/A%20-%20farmpiggie%20and%20Subset%20Sum/solution.cpp) |
 
 ### data structures
@@ -297,6 +298,7 @@
 | 2114D | [Come a Little Closer](https://codeforces.com/contest/2114/problem/D) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2114/D%20-%20Come%20a%20Little%20Closer/solution.cpp) |
 | 2125A | [Difficult Contest](https://codeforces.com/contest/2125/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2125/A%20-%20Difficult%20Contest/solution.cpp) |
 | 2150B | [Grid Counting](https://codeforces.com/contest/2150/problem/B) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2150/B%20-%20Grid%20Counting/solution.cpp) |
+| 2159A | [MAD Interactive Problem](https://codeforces.com/contest/2159/problem/A) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2159/A%20-%20MAD%20Interactive%20Problem/solution.cpp) |
 
 ### interactive
 
@@ -304,6 +306,7 @@
 |---|---------|------------|----------|
 | 1407C | [Chocolate Bunny](https://codeforces.com/contest/1407/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1407/C%20-%20Chocolate%20Bunny/solution.cpp) |
 | 1584D | [Guess the Permutation](https://codeforces.com/contest/1584/problem/D) | 2000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1584/D%20-%20Guess%20the%20Permutation/solution.cpp) |
+| 2159A | [MAD Interactive Problem](https://codeforces.com/contest/2159/problem/A) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2159/A%20-%20MAD%20Interactive%20Problem/solution.cpp) |
 
 ### math
 
