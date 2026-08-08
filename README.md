@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 106 | 26 |
+| 107 | 26 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [binary search](#binary-search) (14)
 - [bitmasks](#bitmasks) (5)
 - [brute force](#brute-force) (17)
-- [combinatorics](#combinatorics) (2)
+- [combinatorics](#combinatorics) (3)
 - [constructive algorithms](#constructive-algorithms) (12)
 - [data structures](#data-structures) (8)
 - [dfs and similar](#dfs-and-similar) (1)
@@ -28,9 +28,9 @@
 - [geometry](#geometry) (7)
 - [greedy](#greedy) (31)
 - [hashing](#hashing) (3)
-- [implementation](#implementation) (42)
+- [implementation](#implementation) (43)
 - [interactive](#interactive) (2)
-- [math](#math) (45)
+- [math](#math) (46)
 - [number theory](#number-theory) (17)
 - [probabilities](#probabilities) (2)
 - [shortest paths](#shortest-paths) (1)
@@ -105,6 +105,7 @@
 |---|---------|------------|----------|
 | 1584D | [Guess the Permutation](https://codeforces.com/contest/1584/problem/D) | 2000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1584/D%20-%20Guess%20the%20Permutation/solution.cpp) |
 | 2125C | [Count Good Numbers](https://codeforces.com/contest/2125/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2125/C%20-%20Count%20Good%20Numbers/solution.cpp) |
+| 2150B | [Grid Counting](https://codeforces.com/contest/2150/problem/B) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2150/B%20-%20Grid%20Counting/solution.cpp) |
 
 ### constructive algorithms
 
@@ -293,6 +294,7 @@
 | 2035D | [Yet Another Real Number Problem](https://codeforces.com/contest/2035/problem/D) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2035/D%20-%20Yet%20Another%20Real%20Number%20Problem/solution.cpp) |
 | 2114D | [Come a Little Closer](https://codeforces.com/contest/2114/problem/D) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2114/D%20-%20Come%20a%20Little%20Closer/solution.cpp) |
 | 2125A | [Difficult Contest](https://codeforces.com/contest/2125/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2125/A%20-%20Difficult%20Contest/solution.cpp) |
+| 2150B | [Grid Counting](https://codeforces.com/contest/2150/problem/B) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2150/B%20-%20Grid%20Counting/solution.cpp) |
 
 ### interactive
 
@@ -349,6 +351,7 @@
 | 2125B | [Left and Down](https://codeforces.com/contest/2125/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2125/B%20-%20Left%20and%20Down/solution.cpp) |
 | 2125C | [Count Good Numbers](https://codeforces.com/contest/2125/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2125/C%20-%20Count%20Good%20Numbers/solution.cpp) |
 | 2125D | [Segments Covering](https://codeforces.com/contest/2125/problem/D) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2125/D%20-%20Segments%20Covering/solution.cpp) |
+| 2150B | [Grid Counting](https://codeforces.com/contest/2150/problem/B) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2150/B%20-%20Grid%20Counting/solution.cpp) |
 | 2226C | [Mental Monumental (Easy Version)](https://codeforces.com/contest/2226/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2226/C%20-%20Mental%20Monumental%20(Easy%20Version)/solution.cpp) |
 
 ### number theory
