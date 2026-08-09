@@ -6,19 +6,19 @@
 
 | Total Problems | Topics |
 |---|---|
-| 112 | 26 |
+| 113 | 26 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (2)
-- [binary search](#binary-search) (14)
+- [binary search](#binary-search) (15)
 - [bitmasks](#bitmasks) (5)
-- [brute force](#brute-force) (18)
+- [brute force](#brute-force) (19)
 - [combinatorics](#combinatorics) (3)
 - [constructive algorithms](#constructive-algorithms) (14)
-- [data structures](#data-structures) (8)
+- [data structures](#data-structures) (9)
 - [dfs and similar](#dfs-and-similar) (1)
 - [divide and conquer](#divide-and-conquer) (1)
 - [dp](#dp) (15)
@@ -34,7 +34,7 @@
 - [number theory](#number-theory) (17)
 - [probabilities](#probabilities) (2)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (12)
+- [sortings](#sortings) (13)
 - [string suffix structures](#string-suffix-structures) (1)
 - [strings](#strings) (8)
 - [two pointers](#two-pointers) (5)
@@ -56,6 +56,7 @@
 | 75C | [Modified GCD](https://codeforces.com/contest/75/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/75/C%20-%20Modified%20GCD/solution.cpp) |
 | 126B | [Password](https://codeforces.com/contest/126/problem/B) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/126/B%20-%20Password/solution.cpp) |
 | 237C | [Primes on Interval](https://codeforces.com/contest/237/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/237/C%20-%20Primes%20on%20Interval/solution.cpp) |
+| 1198B | [Welfare State](https://codeforces.com/contest/1198/problem/B) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1198/B%20-%20Welfare%20State/solution.cpp) |
 | 1398E | [Two Types of Spells](https://codeforces.com/contest/1398/problem/E) | 2200 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1398/E%20-%20Two%20Types%20of%20Spells/solution.cpp) |
 | 1584D | [Guess the Permutation](https://codeforces.com/contest/1584/problem/D) | 2000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1584/D%20-%20Guess%20the%20Permutation/solution.cpp) |
 | 1791F | [Range Update Point Query](https://codeforces.com/contest/1791/problem/F) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1791/F%20-%20Range%20Update%20Point%20Query/solution.cpp) |
@@ -88,6 +89,7 @@
 | 30A | [Accounting](https://codeforces.com/contest/30/problem/A) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/30/A%20-%20Accounting/solution.cpp) |
 | 35C | [Fire Again](https://codeforces.com/contest/35/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/35/C%20-%20Fire%20Again/solution.cpp) |
 | 63C | [Bulls and Cows](https://codeforces.com/contest/63/problem/C) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/63/C%20-%20Bulls%20and%20Cows/solution.cpp) |
+| 1198B | [Welfare State](https://codeforces.com/contest/1198/problem/B) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1198/B%20-%20Welfare%20State/solution.cpp) |
 | 1380C | [Create The Teams](https://codeforces.com/contest/1380/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1380/C%20-%20Create%20The%20Teams/solution.cpp) |
 | 1791F | [Range Update Point Query](https://codeforces.com/contest/1791/problem/F) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1791/F%20-%20Range%20Update%20Point%20Query/solution.cpp) |
 | 1860B | [Fancy Coins](https://codeforces.com/contest/1860/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1860/B%20-%20Fancy%20Coins/solution.cpp) |
@@ -131,6 +133,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1198B | [Welfare State](https://codeforces.com/contest/1198/problem/B) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1198/B%20-%20Welfare%20State/solution.cpp) |
 | 1398C | [Good Subarrays](https://codeforces.com/contest/1398/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1398/C%20-%20Good%20Subarrays/solution.cpp) |
 | 1398E | [Two Types of Spells](https://codeforces.com/contest/1398/problem/E) | 2200 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1398/E%20-%20Two%20Types%20of%20Spells/solution.cpp) |
 | 1791F | [Range Update Point Query](https://codeforces.com/contest/1791/problem/F) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1791/F%20-%20Range%20Update%20Point%20Query/solution.cpp) |
@@ -409,6 +412,7 @@
 | 3B | [Lorry](https://codeforces.com/contest/3/problem/B) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/3/B%20-%20Lorry/solution.cpp) |
 | 37A | [Towers](https://codeforces.com/contest/37/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/37/A%20-%20Towers/solution.cpp) |
 | 63A | [Sinking Ship](https://codeforces.com/contest/63/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/63/A%20-%20Sinking%20Ship/solution.cpp) |
+| 1198B | [Welfare State](https://codeforces.com/contest/1198/problem/B) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1198/B%20-%20Welfare%20State/solution.cpp) |
 | 1380C | [Create The Teams](https://codeforces.com/contest/1380/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1380/C%20-%20Create%20The%20Teams/solution.cpp) |
 | 1398B | [Substring Removal Game](https://codeforces.com/contest/1398/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1398/B%20-%20Substring%20Removal%20Game/solution.cpp) |
 | 1398D | [Colored Rectangles](https://codeforces.com/contest/1398/problem/D) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1398/D%20-%20Colored%20Rectangles/solution.cpp) |
