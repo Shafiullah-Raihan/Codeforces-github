@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 113 | 26 |
+| 114 | 26 |
 
 ---
 
@@ -26,9 +26,9 @@
 - [expression parsing](#expression-parsing) (2)
 - [games](#games) (6)
 - [geometry](#geometry) (7)
-- [greedy](#greedy) (33)
+- [greedy](#greedy) (34)
 - [hashing](#hashing) (3)
-- [implementation](#implementation) (47)
+- [implementation](#implementation) (48)
 - [interactive](#interactive) (3)
 - [math](#math) (48)
 - [number theory](#number-theory) (17)
@@ -219,6 +219,7 @@
 | 26B | [Regular Bracket Sequence](https://codeforces.com/contest/26/problem/B) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/26/B%20-%20Regular%20Bracket%20Sequence/solution.cpp) |
 | 48D | [Permutations](https://codeforces.com/contest/48/problem/D) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/48/D%20-%20Permutations/solution.cpp) |
 | 62A | [A Student's Dream](https://codeforces.com/contest/62/problem/A) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/62/A%20-%20A%20Student's%20Dream/solution.cpp) |
+| 1203D1 | [Remove the Substring (easy version)](https://codeforces.com/contest/1203/problem/D1) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1203/D1%20-%20Remove%20the%20Substring%20(easy%20version)/solution.cpp) |
 | 1380B | [Universal Solution](https://codeforces.com/contest/1380/problem/B) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1380/B%20-%20Universal%20Solution/solution.cpp) |
 | 1380C | [Create The Teams](https://codeforces.com/contest/1380/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1380/C%20-%20Create%20The%20Teams/solution.cpp) |
 | 1398B | [Substring Removal Game](https://codeforces.com/contest/1398/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1398/B%20-%20Substring%20Removal%20Game/solution.cpp) |
@@ -291,6 +292,7 @@
 | 125B | [Simple XML](https://codeforces.com/contest/125/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/125/B%20-%20Simple%20XML/solution.cpp) |
 | 577A | [Multiplication Table](https://codeforces.com/contest/577/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/577/A%20-%20Multiplication%20Table/solution.cpp) |
 | 1184D1 | [Parallel Universes (Easy)](https://codeforces.com/contest/1184/problem/D1) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1184/D1%20-%20Parallel%20Universes%20(Easy)/solution.cpp) |
+| 1203D1 | [Remove the Substring (easy version)](https://codeforces.com/contest/1203/problem/D1) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1203/D1%20-%20Remove%20the%20Substring%20(easy%20version)/solution.cpp) |
 | 1380C | [Create The Teams](https://codeforces.com/contest/1380/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1380/C%20-%20Create%20The%20Teams/solution.cpp) |
 | 1398E | [Two Types of Spells](https://codeforces.com/contest/1398/problem/E) | 2200 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1398/E%20-%20Two%20Types%20of%20Spells/solution.cpp) |
 | 1791B | [Following Directions](https://codeforces.com/contest/1791/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1791/B%20-%20Following%20Directions/solution.cpp) |
