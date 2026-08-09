@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 114 | 26 |
+| 115 | 26 |
 
 ---
 
@@ -15,7 +15,7 @@
 - [*special](#special) (2)
 - [binary search](#binary-search) (15)
 - [bitmasks](#bitmasks) (5)
-- [brute force](#brute-force) (19)
+- [brute force](#brute-force) (20)
 - [combinatorics](#combinatorics) (3)
 - [constructive algorithms](#constructive-algorithms) (14)
 - [data structures](#data-structures) (9)
@@ -28,7 +28,7 @@
 - [geometry](#geometry) (7)
 - [greedy](#greedy) (34)
 - [hashing](#hashing) (3)
-- [implementation](#implementation) (48)
+- [implementation](#implementation) (49)
 - [interactive](#interactive) (3)
 - [math](#math) (48)
 - [number theory](#number-theory) (17)
@@ -90,6 +90,7 @@
 | 35C | [Fire Again](https://codeforces.com/contest/35/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/35/C%20-%20Fire%20Again/solution.cpp) |
 | 63C | [Bulls and Cows](https://codeforces.com/contest/63/problem/C) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/63/C%20-%20Bulls%20and%20Cows/solution.cpp) |
 | 1198B | [Welfare State](https://codeforces.com/contest/1198/problem/B) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1198/B%20-%20Welfare%20State/solution.cpp) |
+| 1213D1 | [Equalizing by Division (easy version)](https://codeforces.com/contest/1213/problem/D1) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1213/D1%20-%20Equalizing%20by%20Division%20(easy%20version)/solution.cpp) |
 | 1380C | [Create The Teams](https://codeforces.com/contest/1380/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1380/C%20-%20Create%20The%20Teams/solution.cpp) |
 | 1791F | [Range Update Point Query](https://codeforces.com/contest/1791/problem/F) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1791/F%20-%20Range%20Update%20Point%20Query/solution.cpp) |
 | 1860B | [Fancy Coins](https://codeforces.com/contest/1860/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1860/B%20-%20Fancy%20Coins/solution.cpp) |
@@ -293,6 +294,7 @@
 | 577A | [Multiplication Table](https://codeforces.com/contest/577/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/577/A%20-%20Multiplication%20Table/solution.cpp) |
 | 1184D1 | [Parallel Universes (Easy)](https://codeforces.com/contest/1184/problem/D1) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1184/D1%20-%20Parallel%20Universes%20(Easy)/solution.cpp) |
 | 1203D1 | [Remove the Substring (easy version)](https://codeforces.com/contest/1203/problem/D1) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1203/D1%20-%20Remove%20the%20Substring%20(easy%20version)/solution.cpp) |
+| 1213D1 | [Equalizing by Division (easy version)](https://codeforces.com/contest/1213/problem/D1) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1213/D1%20-%20Equalizing%20by%20Division%20(easy%20version)/solution.cpp) |
 | 1380C | [Create The Teams](https://codeforces.com/contest/1380/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1380/C%20-%20Create%20The%20Teams/solution.cpp) |
 | 1398E | [Two Types of Spells](https://codeforces.com/contest/1398/problem/E) | 2200 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1398/E%20-%20Two%20Types%20of%20Spells/solution.cpp) |
 | 1791B | [Following Directions](https://codeforces.com/contest/1791/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1791/B%20-%20Following%20Directions/solution.cpp) |
