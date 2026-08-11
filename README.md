@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 117 | 26 |
+| 118 | 26 |
 
 ---
 
@@ -17,7 +17,7 @@
 - [bitmasks](#bitmasks) (5)
 - [brute force](#brute-force) (20)
 - [combinatorics](#combinatorics) (3)
-- [constructive algorithms](#constructive-algorithms) (15)
+- [constructive algorithms](#constructive-algorithms) (16)
 - [data structures](#data-structures) (9)
 - [dfs and similar](#dfs-and-similar) (1)
 - [divide and conquer](#divide-and-conquer) (1)
@@ -26,11 +26,11 @@
 - [expression parsing](#expression-parsing) (2)
 - [games](#games) (6)
 - [geometry](#geometry) (7)
-- [greedy](#greedy) (36)
+- [greedy](#greedy) (37)
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (49)
 - [interactive](#interactive) (3)
-- [math](#math) (49)
+- [math](#math) (50)
 - [number theory](#number-theory) (17)
 - [probabilities](#probabilities) (2)
 - [shortest paths](#shortest-paths) (1)
@@ -118,6 +118,7 @@
 | 11A | [Increasing Sequence](https://codeforces.com/contest/11/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/11/A%20-%20Increasing%20Sequence/solution.cpp) |
 | 14C | [Four Segments](https://codeforces.com/contest/14/problem/C) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/14/C%20-%20Four%20Segments/solution.cpp) |
 | 1407C | [Chocolate Bunny](https://codeforces.com/contest/1407/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1407/C%20-%20Chocolate%20Bunny/solution.cpp) |
+| 1774B | [Coloring](https://codeforces.com/contest/1774/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1774/B%20-%20Coloring/solution.cpp) |
 | 1837C | [Best Binary String](https://codeforces.com/contest/1837/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1837/C%20-%20Best%20Binary%20String/solution.cpp) |
 | 1861B | [Two Binary Strings](https://codeforces.com/contest/1861/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1861/B%20-%20Two%20Binary%20Strings/solution.cpp) |
 | 1894B | [Two Out of Three](https://codeforces.com/contest/1894/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1894/B%20-%20Two%20Out%20of%20Three/solution.cpp) |
@@ -231,6 +232,7 @@
 | 1584B | [Coloring Rectangles](https://codeforces.com/contest/1584/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1584/B%20-%20Coloring%20Rectangles/solution.cpp) |
 | 1584C | [Two Arrays](https://codeforces.com/contest/1584/problem/C) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1584/C%20-%20Two%20Arrays/solution.cpp) |
 | 1771C | [Hossam and Trainees](https://codeforces.com/contest/1771/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1771/C%20-%20Hossam%20and%20Trainees/solution.cpp) |
+| 1774B | [Coloring](https://codeforces.com/contest/1774/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1774/B%20-%20Coloring/solution.cpp) |
 | 1837C | [Best Binary String](https://codeforces.com/contest/1837/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1837/C%20-%20Best%20Binary%20String/solution.cpp) |
 | 1860B | [Fancy Coins](https://codeforces.com/contest/1860/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1860/B%20-%20Fancy%20Coins/solution.cpp) |
 | 1861B | [Two Binary Strings](https://codeforces.com/contest/1861/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1861/B%20-%20Two%20Binary%20Strings/solution.cpp) |
@@ -351,6 +353,7 @@
 | 1584C | [Two Arrays](https://codeforces.com/contest/1584/problem/C) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1584/C%20-%20Two%20Arrays/solution.cpp) |
 | 1584D | [Guess the Permutation](https://codeforces.com/contest/1584/problem/D) | 2000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1584/D%20-%20Guess%20the%20Permutation/solution.cpp) |
 | 1771C | [Hossam and Trainees](https://codeforces.com/contest/1771/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1771/C%20-%20Hossam%20and%20Trainees/solution.cpp) |
+| 1774B | [Coloring](https://codeforces.com/contest/1774/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1774/B%20-%20Coloring/solution.cpp) |
 | 1845B | [Come Together](https://codeforces.com/contest/1845/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1845/B%20-%20Come%20Together/solution.cpp) |
 | 1848A | [Vika and Her Friends](https://codeforces.com/contest/1848/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1848/A%20-%20Vika%20and%20Her%20Friends/solution.cpp) |
 | 1860B | [Fancy Coins](https://codeforces.com/contest/1860/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1860/B%20-%20Fancy%20Coins/solution.cpp) |
