@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 44 | 29 |
+| 45 | 29 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (1)
+- [Uncategorized](#uncategorized) (2)
 - [binary search](#binary-search) (6)
 - [bitmasks](#bitmasks) (3)
 - [brute force](#brute-force) (11)
@@ -49,6 +49,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2197D | [Another Problem about Beautiful Pairs](https://codeforces.com/contest/2197/problem/D) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2197/D%20-%20Another%20Problem%20about%20Beautiful%20Pairs/solution.cpp) |
+| 2256D | [A Ribbon for Tomorrow](https://codeforces.com/contest/2256/problem/D) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2256/D%20-%20A%20Ribbon%20for%20Tomorrow/solution.cpp) |
 
 ### binary search
 
