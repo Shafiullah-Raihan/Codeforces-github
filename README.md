@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 120 | 27 |
+| 121 | 27 |
 
 ---
 
@@ -27,15 +27,15 @@
 - [expression parsing](#expression-parsing) (2)
 - [games](#games) (6)
 - [geometry](#geometry) (7)
-- [greedy](#greedy) (37)
+- [greedy](#greedy) (38)
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (49)
 - [interactive](#interactive) (3)
-- [math](#math) (50)
+- [math](#math) (51)
 - [number theory](#number-theory) (17)
 - [probabilities](#probabilities) (2)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (14)
+- [sortings](#sortings) (15)
 - [string suffix structures](#string-suffix-structures) (1)
 - [strings](#strings) (8)
 - [two pointers](#two-pointers) (5)
@@ -231,6 +231,7 @@
 | 26B | [Regular Bracket Sequence](https://codeforces.com/contest/26/problem/B) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/26/B%20-%20Regular%20Bracket%20Sequence/solution.cpp) |
 | 48D | [Permutations](https://codeforces.com/contest/48/problem/D) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/48/D%20-%20Permutations/solution.cpp) |
 | 62A | [A Student's Dream](https://codeforces.com/contest/62/problem/A) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/62/A%20-%20A%20Student's%20Dream/solution.cpp) |
+| 149C | [Division into Teams](https://codeforces.com/contest/149/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/149/C%20-%20Division%20into%20Teams/solution.cpp) |
 | 1203D1 | [Remove the Substring (easy version)](https://codeforces.com/contest/1203/problem/D1) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1203/D1%20-%20Remove%20the%20Substring%20(easy%20version)/solution.cpp) |
 | 1380B | [Universal Solution](https://codeforces.com/contest/1380/problem/B) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1380/B%20-%20Universal%20Solution/solution.cpp) |
 | 1380C | [Create The Teams](https://codeforces.com/contest/1380/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1380/C%20-%20Create%20The%20Teams/solution.cpp) |
@@ -351,6 +352,7 @@
 | 76E | [Points](https://codeforces.com/contest/76/problem/E) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/76/E%20-%20Points/solution.cpp) |
 | 124A | [The number of positions](https://codeforces.com/contest/124/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/124/A%20-%20The%20number%20of%20positions/solution.cpp) |
 | 125A | [Measuring Lengths in Baden](https://codeforces.com/contest/125/problem/A) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/125/A%20-%20Measuring%20Lengths%20in%20Baden/solution.cpp) |
+| 149C | [Division into Teams](https://codeforces.com/contest/149/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/149/C%20-%20Division%20into%20Teams/solution.cpp) |
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/617/A%20-%20Elephant/solution.cpp) |
 | 1398A | [Bad Triangle](https://codeforces.com/contest/1398/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1398/A%20-%20Bad%20Triangle/solution.cpp) |
 | 1398C | [Good Subarrays](https://codeforces.com/contest/1398/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1398/C%20-%20Good%20Subarrays/solution.cpp) |
@@ -432,6 +434,7 @@
 | 3B | [Lorry](https://codeforces.com/contest/3/problem/B) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/3/B%20-%20Lorry/solution.cpp) |
 | 37A | [Towers](https://codeforces.com/contest/37/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/37/A%20-%20Towers/solution.cpp) |
 | 63A | [Sinking Ship](https://codeforces.com/contest/63/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/63/A%20-%20Sinking%20Ship/solution.cpp) |
+| 149C | [Division into Teams](https://codeforces.com/contest/149/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/149/C%20-%20Division%20into%20Teams/solution.cpp) |
 | 1198B | [Welfare State](https://codeforces.com/contest/1198/problem/B) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1198/B%20-%20Welfare%20State/solution.cpp) |
 | 1380C | [Create The Teams](https://codeforces.com/contest/1380/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1380/C%20-%20Create%20The%20Teams/solution.cpp) |
 | 1398B | [Substring Removal Game](https://codeforces.com/contest/1398/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1398/B%20-%20Substring%20Removal%20Game/solution.cpp) |
