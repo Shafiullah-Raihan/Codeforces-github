@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 121 | 27 |
+| 122 | 27 |
 
 ---
 
@@ -14,7 +14,7 @@
 
 - [*special](#special) (2)
 - [Uncategorized](#uncategorized) (1)
-- [binary search](#binary-search) (16)
+- [binary search](#binary-search) (17)
 - [bitmasks](#bitmasks) (5)
 - [brute force](#brute-force) (20)
 - [combinatorics](#combinatorics) (3)
@@ -29,7 +29,7 @@
 - [geometry](#geometry) (7)
 - [greedy](#greedy) (38)
 - [hashing](#hashing) (3)
-- [implementation](#implementation) (49)
+- [implementation](#implementation) (50)
 - [interactive](#interactive) (3)
 - [math](#math) (51)
 - [number theory](#number-theory) (17)
@@ -63,6 +63,7 @@
 | 75C | [Modified GCD](https://codeforces.com/contest/75/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/75/C%20-%20Modified%20GCD/solution.cpp) |
 | 91B | [Queue](https://codeforces.com/contest/91/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/91/B%20-%20Queue/solution.cpp) |
 | 126B | [Password](https://codeforces.com/contest/126/problem/B) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/126/B%20-%20Password/solution.cpp) |
+| 165B | [Burning Midnight Oil](https://codeforces.com/contest/165/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/165/B%20-%20Burning%20Midnight%20Oil/solution.cpp) |
 | 237C | [Primes on Interval](https://codeforces.com/contest/237/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/237/C%20-%20Primes%20on%20Interval/solution.cpp) |
 | 1198B | [Welfare State](https://codeforces.com/contest/1198/problem/B) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1198/B%20-%20Welfare%20State/solution.cpp) |
 | 1398E | [Two Types of Spells](https://codeforces.com/contest/1398/problem/E) | 2200 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1398/E%20-%20Two%20Types%20of%20Spells/solution.cpp) |
@@ -306,6 +307,7 @@
 | 76E | [Points](https://codeforces.com/contest/76/problem/E) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/76/E%20-%20Points/solution.cpp) |
 | 123A | [Prime Permutation](https://codeforces.com/contest/123/problem/A) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/123/A%20-%20Prime%20Permutation/solution.cpp) |
 | 125B | [Simple XML](https://codeforces.com/contest/125/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/125/B%20-%20Simple%20XML/solution.cpp) |
+| 165B | [Burning Midnight Oil](https://codeforces.com/contest/165/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/165/B%20-%20Burning%20Midnight%20Oil/solution.cpp) |
 | 577A | [Multiplication Table](https://codeforces.com/contest/577/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/577/A%20-%20Multiplication%20Table/solution.cpp) |
 | 1184D1 | [Parallel Universes (Easy)](https://codeforces.com/contest/1184/problem/D1) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1184/D1%20-%20Parallel%20Universes%20(Easy)/solution.cpp) |
 | 1203D1 | [Remove the Substring (easy version)](https://codeforces.com/contest/1203/problem/D1) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1203/D1%20-%20Remove%20the%20Substring%20(easy%20version)/solution.cpp) |
