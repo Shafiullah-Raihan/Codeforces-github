@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 47 | 29 |
+| 48 | 29 |
 
 ---
 
@@ -31,12 +31,12 @@
 - [greedy](#greedy) (14)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (10)
-- [math](#math) (15)
+- [math](#math) (16)
 - [number theory](#number-theory) (4)
 - [probabilities](#probabilities) (1)
 - [schedules](#schedules) (2)
 - [shortest paths](#shortest-paths) (2)
-- [sortings](#sortings) (6)
+- [sortings](#sortings) (7)
 - [strings](#strings) (3)
 - [ternary search](#ternary-search) (1)
 - [trees](#trees) (3)
@@ -247,6 +247,7 @@
 | 2204C | [Spring](https://codeforces.com/contest/2204/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2204/C%20-%20Spring/solution.cpp) |
 | 2204E | [Sum of Digits (and Again)](https://codeforces.com/contest/2204/problem/E) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2204/E%20-%20Sum%20of%20Digits%20(and%20Again)/solution.cpp) |
 | 2236D | [Brand New Tatar TV Show](https://codeforces.com/contest/2236/problem/D) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2236/D%20-%20Brand%20New%20Tatar%20TV%20Show/solution.cpp) |
+| 2256A | [Three Numbers on the Blackboard](https://codeforces.com/contest/2256/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2256/A%20-%20Three%20Numbers%20on%20the%20Blackboard/solution.cpp) |
 | 2256B | [Domino Tiles](https://codeforces.com/contest/2256/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2256/B%20-%20Domino%20Tiles/solution.cpp) |
 
 ### number theory
@@ -288,6 +289,7 @@
 | 34B | [Sale](https://codeforces.com/contest/34/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/34/B%20-%20Sale/solution.cpp) |
 | 81C | [Average Score](https://codeforces.com/contest/81/problem/C) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/81/C%20-%20Average%20Score/solution.cpp) |
 | 274A | [k-Multiple Free Set](https://codeforces.com/contest/274/problem/A) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/274/A%20-%20k-Multiple%20Free%20Set/solution.cpp) |
+| 2256A | [Three Numbers on the Blackboard](https://codeforces.com/contest/2256/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2256/A%20-%20Three%20Numbers%20on%20the%20Blackboard/solution.cpp) |
 
 ### strings
 
