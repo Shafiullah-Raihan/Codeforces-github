@@ -6,13 +6,15 @@
 
 | Total Problems | Topics |
 |---|---|
-| 3 | 8 |
+| 4 | 10 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [brute force](#brute-force) (3)
+- [binary search](#binary-search) (1)
+- [bitmasks](#bitmasks) (1)
+- [brute force](#brute-force) (4)
 - [combinatorics](#combinatorics) (1)
 - [data structures](#data-structures) (1)
 - [dp](#dp) (1)
@@ -23,12 +25,25 @@
 
 ---
 
+### binary search
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2218E | [The 67th XOR Problem](https://codeforces.com/contest/2218/problem/E) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2218/E%20-%20The%2067th%20XOR%20Problem/solution.cpp) |
+
+### bitmasks
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2218E | [The 67th XOR Problem](https://codeforces.com/contest/2218/problem/E) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2218/E%20-%20The%2067th%20XOR%20Problem/solution.cpp) |
+
 ### brute force
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1948B | [Array Fix](https://codeforces.com/contest/1948/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1948/B%20-%20Array%20Fix/solution.cpp) |
 | 1985E | [Secret Box](https://codeforces.com/contest/1985/problem/E) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1985/E%20-%20Secret%20Box/solution.cpp) |
+| 2218E | [The 67th XOR Problem](https://codeforces.com/contest/2218/problem/E) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2218/E%20-%20The%2067th%20XOR%20Problem/solution.cpp) |
 | 2253B | [Hypercarp and the Control Panel](https://codeforces.com/contest/2253/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2253/B%20-%20Hypercarp%20and%20the%20Control%20Panel/solution.cpp) |
 
 ### combinatorics
