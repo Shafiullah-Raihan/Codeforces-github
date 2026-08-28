@@ -6,19 +6,19 @@
 
 | Total Problems | Topics |
 |---|---|
-| 60 | 29 |
+| 61 | 29 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [Uncategorized](#uncategorized) (2)
-- [binary search](#binary-search) (8)
+- [binary search](#binary-search) (9)
 - [bitmasks](#bitmasks) (3)
 - [brute force](#brute-force) (15)
 - [combinatorics](#combinatorics) (2)
 - [constructive algorithms](#constructive-algorithms) (12)
-- [data structures](#data-structures) (5)
+- [data structures](#data-structures) (6)
 - [dfs and similar](#dfs-and-similar) (3)
 - [divide and conquer](#divide-and-conquer) (1)
 - [dp](#dp) (13)
@@ -58,6 +58,7 @@
 | 6E | [Exposition](https://codeforces.com/contest/6/problem/E) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/6/E%20-%20Exposition/solution.cpp) |
 | 91B | [Queue](https://codeforces.com/contest/91/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/91/B%20-%20Queue/solution.cpp) |
 | 274A | [k-Multiple Free Set](https://codeforces.com/contest/274/problem/A) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/274/A%20-%20k-Multiple%20Free%20Set/solution.cpp) |
+| 1985F | [Final Boss](https://codeforces.com/contest/1985/problem/F) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1985/F%20-%20Final%20Boss/solution.cpp) |
 | 2072E | [Do You Love Your Hero and His Two-Hit Multi-Target Attacks?](https://codeforces.com/contest/2072/problem/E) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2072/E%20-%20Do%20You%20Love%20Your%20Hero%20and%20His%20Two-Hit%20Multi-Target%20Attacks%3F/solution.cpp) |
 | 2117D | [Retaliation](https://codeforces.com/contest/2117/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2117/D%20-%20Retaliation/solution.cpp) |
 | 2148E | [Split](https://codeforces.com/contest/2148/problem/E) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2148/E%20-%20Split/solution.cpp) |
@@ -123,6 +124,7 @@
 | 5C | [Longest Regular Bracket Sequence](https://codeforces.com/contest/5/problem/C) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/5/C%20-%20Longest%20Regular%20Bracket%20Sequence/solution.cpp) |
 | 6E | [Exposition](https://codeforces.com/contest/6/problem/E) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/6/E%20-%20Exposition/solution.cpp) |
 | 91B | [Queue](https://codeforces.com/contest/91/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/91/B%20-%20Queue/solution.cpp) |
+| 1985F | [Final Boss](https://codeforces.com/contest/1985/problem/F) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1985/F%20-%20Final%20Boss/solution.cpp) |
 | 2148E | [Split](https://codeforces.com/contest/2148/problem/E) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2148/E%20-%20Split/solution.cpp) |
 | 2253B | [Hypercarp and the Control Panel](https://codeforces.com/contest/2253/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2253/B%20-%20Hypercarp%20and%20the%20Control%20Panel/solution.cpp) |
 
