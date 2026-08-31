@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 63 | 29 |
+| 64 | 29 |
 
 ---
 
@@ -28,7 +28,7 @@
 - [geometry](#geometry) (2)
 - [graph matchings](#graph-matchings) (1)
 - [graphs](#graphs) (5)
-- [greedy](#greedy) (21)
+- [greedy](#greedy) (22)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (14)
 - [math](#math) (21)
@@ -37,7 +37,7 @@
 - [schedules](#schedules) (2)
 - [shortest paths](#shortest-paths) (2)
 - [sortings](#sortings) (9)
-- [strings](#strings) (6)
+- [strings](#strings) (7)
 - [ternary search](#ternary-search) (1)
 - [trees](#trees) (3)
 - [two pointers](#two-pointers) (5)
@@ -217,6 +217,7 @@
 | 34B | [Sale](https://codeforces.com/contest/34/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/34/B%20-%20Sale/solution.cpp) |
 | 81C | [Average Score](https://codeforces.com/contest/81/problem/C) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/81/C%20-%20Average%20Score/solution.cpp) |
 | 274A | [k-Multiple Free Set](https://codeforces.com/contest/274/problem/A) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/274/A%20-%20k-Multiple%20Free%20Set/solution.cpp) |
+| 1634A | [Reverse and Concatenate](https://codeforces.com/contest/1634/problem/A) | 800 | [Python 3](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1634/A%20-%20Reverse%20and%20Concatenate/solution.py) |
 | 1774B | [Coloring](https://codeforces.com/contest/1774/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1774/B%20-%20Coloring/solution.cpp) |
 | 1861B | [Two Binary Strings](https://codeforces.com/contest/1861/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1861/B%20-%20Two%20Binary%20Strings/solution.cpp) |
 | 1948B | [Array Fix](https://codeforces.com/contest/1948/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1948/B%20-%20Array%20Fix/solution.cpp) |
@@ -333,6 +334,7 @@
 | 5C | [Longest Regular Bracket Sequence](https://codeforces.com/contest/5/problem/C) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/5/C%20-%20Longest%20Regular%20Bracket%20Sequence/solution.cpp) |
 | 16D | [Logging](https://codeforces.com/contest/16/problem/D) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/16/D%20-%20Logging/solution.cpp) |
 | 21A | [Jabber ID](https://codeforces.com/contest/21/problem/A) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/21/A%20-%20Jabber%20ID/solution.cpp) |
+| 1634A | [Reverse and Concatenate](https://codeforces.com/contest/1634/problem/A) | 800 | [Python 3](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1634/A%20-%20Reverse%20and%20Concatenate/solution.py) |
 | 2252B | [Always Changing](https://codeforces.com/contest/2252/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2252/B%20-%20Always%20Changing/solution.cpp) |
 | 2254B | [Evanescent](https://codeforces.com/contest/2254/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2254/B%20-%20Evanescent/solution.cpp) |
 | 2257A | [Creating Abbreviations](https://codeforces.com/contest/2257/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2257/A%20-%20Creating%20Abbreviations/solution.cpp) |
