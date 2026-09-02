@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 64 | 29 |
+| 65 | 29 |
 
 ---
 
@@ -17,7 +17,7 @@
 - [bitmasks](#bitmasks) (3)
 - [brute force](#brute-force) (17)
 - [combinatorics](#combinatorics) (2)
-- [constructive algorithms](#constructive-algorithms) (12)
+- [constructive algorithms](#constructive-algorithms) (13)
 - [data structures](#data-structures) (6)
 - [dfs and similar](#dfs-and-similar) (3)
 - [divide and conquer](#divide-and-conquer) (1)
@@ -31,12 +31,12 @@
 - [greedy](#greedy) (22)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (14)
-- [math](#math) (21)
+- [math](#math) (22)
 - [number theory](#number-theory) (5)
 - [probabilities](#probabilities) (1)
 - [schedules](#schedules) (2)
 - [shortest paths](#shortest-paths) (2)
-- [sortings](#sortings) (9)
+- [sortings](#sortings) (10)
 - [strings](#strings) (7)
 - [ternary search](#ternary-search) (1)
 - [trees](#trees) (3)
@@ -118,6 +118,7 @@
 | 2233B | [Different Distances](https://codeforces.com/contest/2233/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2233/B%20-%20Different%20Distances/solution.cpp) |
 | 2236D | [Brand New Tatar TV Show](https://codeforces.com/contest/2236/problem/D) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2236/D%20-%20Brand%20New%20Tatar%20TV%20Show/solution.cpp) |
 | 2250B | [String Construction](https://codeforces.com/contest/2250/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2250/B%20-%20String%20Construction/solution.cpp) |
+| 2254D | [Silhouette](https://codeforces.com/contest/2254/problem/D) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2254/D%20-%20Silhouette/solution.cpp) |
 
 ### data structures
 
@@ -280,6 +281,7 @@
 | 2226B | [Everything Everywhere](https://codeforces.com/contest/2226/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2226/B%20-%20Everything%20Everywhere/solution.cpp) |
 | 2236D | [Brand New Tatar TV Show](https://codeforces.com/contest/2236/problem/D) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2236/D%20-%20Brand%20New%20Tatar%20TV%20Show/solution.cpp) |
 | 2252B | [Always Changing](https://codeforces.com/contest/2252/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2252/B%20-%20Always%20Changing/solution.cpp) |
+| 2254D | [Silhouette](https://codeforces.com/contest/2254/problem/D) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2254/D%20-%20Silhouette/solution.cpp) |
 | 2256A | [Three Numbers on the Blackboard](https://codeforces.com/contest/2256/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2256/A%20-%20Three%20Numbers%20on%20the%20Blackboard/solution.cpp) |
 | 2256B | [Domino Tiles](https://codeforces.com/contest/2256/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2256/B%20-%20Domino%20Tiles/solution.cpp) |
 
@@ -325,6 +327,7 @@
 | 274A | [k-Multiple Free Set](https://codeforces.com/contest/274/problem/A) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/274/A%20-%20k-Multiple%20Free%20Set/solution.cpp) |
 | 2252D | [Array Replacement](https://codeforces.com/contest/2252/problem/D) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2252/D%20-%20Array%20Replacement/solution.cpp) |
 | 2254C2 | [Marenol (hard version)](https://codeforces.com/contest/2254/problem/C2) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2254/C2%20-%20Marenol%20(hard%20version)/solution.cpp) |
+| 2254D | [Silhouette](https://codeforces.com/contest/2254/problem/D) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2254/D%20-%20Silhouette/solution.cpp) |
 | 2256A | [Three Numbers on the Blackboard](https://codeforces.com/contest/2256/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2256/A%20-%20Three%20Numbers%20on%20the%20Blackboard/solution.cpp) |
 
 ### strings
