@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 14 | 15 |
+| 15 | 16 |
 
 ---
 
@@ -18,14 +18,15 @@
 - [combinatorics](#combinatorics) (1)
 - [constructive algorithms](#constructive-algorithms) (2)
 - [data structures](#data-structures) (2)
-- [dfs and similar](#dfs-and-similar) (1)
-- [dp](#dp) (2)
+- [dfs and similar](#dfs-and-similar) (2)
+- [dp](#dp) (3)
 - [games](#games) (1)
 - [greedy](#greedy) (5)
 - [implementation](#implementation) (4)
 - [math](#math) (8)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (2)
+- [trees](#trees) (1)
 - [two pointers](#two-pointers) (3)
 
 ---
@@ -80,6 +81,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 2238C | [Village Guilds](https://codeforces.com/contest/2238/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2238/C%20-%20Village%20Guilds/solution.cpp) |
 | 2241B | [Good times Good times](https://codeforces.com/contest/2241/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2241/B%20-%20Good%20times%20Good%20times/solution.cpp) |
 
 ### dp
@@ -87,6 +89,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1948B | [Array Fix](https://codeforces.com/contest/1948/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1948/B%20-%20Array%20Fix/solution.cpp) |
+| 2238C | [Village Guilds](https://codeforces.com/contest/2238/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2238/C%20-%20Village%20Guilds/solution.cpp) |
 | 2241D | [An Alternative Way](https://codeforces.com/contest/2241/problem/D) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2241/D%20-%20An%20Alternative%20Way/solution.cpp) |
 
 ### games
@@ -139,6 +142,12 @@
 |---|---------|------------|----------|
 | 2051D | [Counting Pairs](https://codeforces.com/contest/2051/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2051/D%20-%20Counting%20Pairs/solution.cpp) |
 | 2254D | [Silhouette](https://codeforces.com/contest/2254/problem/D) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2254/D%20-%20Silhouette/solution.cpp) |
+
+### trees
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2238C | [Village Guilds](https://codeforces.com/contest/2238/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2238/C%20-%20Village%20Guilds/solution.cpp) |
 
 ### two pointers
 
