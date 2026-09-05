@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 16 | 16 |
+| 17 | 17 |
 
 ---
 
@@ -14,7 +14,8 @@
 
 - [binary search](#binary-search) (3)
 - [bitmasks](#bitmasks) (1)
-- [brute force](#brute-force) (7)
+- [brute force](#brute-force) (8)
+- [chinese remainder theorem](#chinese-remainder-theorem) (1)
 - [combinatorics](#combinatorics) (1)
 - [constructive algorithms](#constructive-algorithms) (2)
 - [data structures](#data-structures) (3)
@@ -23,8 +24,8 @@
 - [games](#games) (1)
 - [greedy](#greedy) (6)
 - [implementation](#implementation) (5)
-- [math](#math) (8)
-- [number theory](#number-theory) (1)
+- [math](#math) (9)
+- [number theory](#number-theory) (2)
 - [sortings](#sortings) (2)
 - [trees](#trees) (1)
 - [two pointers](#two-pointers) (4)
@@ -52,10 +53,17 @@
 | 1623A | [Robot Cleaner](https://codeforces.com/contest/1623/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1623/A%20-%20Robot%20Cleaner/solution.cpp) |
 | 1948B | [Array Fix](https://codeforces.com/contest/1948/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1948/B%20-%20Array%20Fix/solution.cpp) |
 | 1985E | [Secret Box](https://codeforces.com/contest/1985/problem/E) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1985/E%20-%20Secret%20Box/solution.cpp) |
+| 2034A | [King Keykhosrow's Mystery](https://codeforces.com/contest/2034/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2034/A%20-%20King%20Keykhosrow's%20Mystery/solution.cpp) |
 | 2218A | [The 67th Integer Problem](https://codeforces.com/contest/2218/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2218/A%20-%20The%2067th%20Integer%20Problem/solution.cpp) |
 | 2218E | [The 67th XOR Problem](https://codeforces.com/contest/2218/problem/E) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2218/E%20-%20The%2067th%20XOR%20Problem/solution.cpp) |
 | 2249A | [Rank Subsequence](https://codeforces.com/contest/2249/problem/A) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2249/A%20-%20Rank%20Subsequence/solution.cpp) |
 | 2253B | [Hypercarp and the Control Panel](https://codeforces.com/contest/2253/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2253/B%20-%20Hypercarp%20and%20the%20Control%20Panel/solution.cpp) |
+
+### chinese remainder theorem
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2034A | [King Keykhosrow's Mystery](https://codeforces.com/contest/2034/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2034/A%20-%20King%20Keykhosrow's%20Mystery/solution.cpp) |
 
 ### combinatorics
 
@@ -126,6 +134,7 @@
 |---|---------|------------|----------|
 | 1623A | [Robot Cleaner](https://codeforces.com/contest/1623/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1623/A%20-%20Robot%20Cleaner/solution.cpp) |
 | 1985E | [Secret Box](https://codeforces.com/contest/1985/problem/E) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1985/E%20-%20Secret%20Box/solution.cpp) |
+| 2034A | [King Keykhosrow's Mystery](https://codeforces.com/contest/2034/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2034/A%20-%20King%20Keykhosrow's%20Mystery/solution.cpp) |
 | 2160B | [Distinct Elements](https://codeforces.com/contest/2160/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2160/B%20-%20Distinct%20Elements/solution.cpp) |
 | 2218A | [The 67th Integer Problem](https://codeforces.com/contest/2218/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2218/A%20-%20The%2067th%20Integer%20Problem/solution.cpp) |
 | 2241A | [Divide and Conquer](https://codeforces.com/contest/2241/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2241/A%20-%20Divide%20and%20Conquer/solution.cpp) |
@@ -137,6 +146,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 2034A | [King Keykhosrow's Mystery](https://codeforces.com/contest/2034/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2034/A%20-%20King%20Keykhosrow's%20Mystery/solution.cpp) |
 | 2241A | [Divide and Conquer](https://codeforces.com/contest/2241/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2241/A%20-%20Divide%20and%20Conquer/solution.cpp) |
 
 ### sortings
