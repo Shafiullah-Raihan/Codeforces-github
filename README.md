@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 15 | 16 |
+| 16 | 16 |
 
 ---
 
@@ -17,17 +17,17 @@
 - [brute force](#brute-force) (7)
 - [combinatorics](#combinatorics) (1)
 - [constructive algorithms](#constructive-algorithms) (2)
-- [data structures](#data-structures) (2)
+- [data structures](#data-structures) (3)
 - [dfs and similar](#dfs-and-similar) (2)
 - [dp](#dp) (3)
 - [games](#games) (1)
-- [greedy](#greedy) (5)
-- [implementation](#implementation) (4)
+- [greedy](#greedy) (6)
+- [implementation](#implementation) (5)
 - [math](#math) (8)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (2)
 - [trees](#trees) (1)
-- [two pointers](#two-pointers) (3)
+- [two pointers](#two-pointers) (4)
 
 ---
 
@@ -74,6 +74,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 2034B | [Rakhsh's Revival](https://codeforces.com/contest/2034/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2034/B%20-%20Rakhsh's%20Revival/solution.cpp) |
 | 2148E | [Split](https://codeforces.com/contest/2148/problem/E) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2148/E%20-%20Split/solution.cpp) |
 | 2253B | [Hypercarp and the Control Panel](https://codeforces.com/contest/2253/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2253/B%20-%20Hypercarp%20and%20the%20Control%20Panel/solution.cpp) |
 
@@ -103,6 +104,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1948B | [Array Fix](https://codeforces.com/contest/1948/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1948/B%20-%20Array%20Fix/solution.cpp) |
+| 2034B | [Rakhsh's Revival](https://codeforces.com/contest/2034/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2034/B%20-%20Rakhsh's%20Revival/solution.cpp) |
 | 2160B | [Distinct Elements](https://codeforces.com/contest/2160/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2160/B%20-%20Distinct%20Elements/solution.cpp) |
 | 2241A | [Divide and Conquer](https://codeforces.com/contest/2241/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2241/A%20-%20Divide%20and%20Conquer/solution.cpp) |
 | 2241D | [An Alternative Way](https://codeforces.com/contest/2241/problem/D) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2241/D%20-%20An%20Alternative%20Way/solution.cpp) |
@@ -114,6 +116,7 @@
 |---|---------|------------|----------|
 | 1623A | [Robot Cleaner](https://codeforces.com/contest/1623/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1623/A%20-%20Robot%20Cleaner/solution.cpp) |
 | 1948B | [Array Fix](https://codeforces.com/contest/1948/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1948/B%20-%20Array%20Fix/solution.cpp) |
+| 2034B | [Rakhsh's Revival](https://codeforces.com/contest/2034/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2034/B%20-%20Rakhsh's%20Revival/solution.cpp) |
 | 2218A | [The 67th Integer Problem](https://codeforces.com/contest/2218/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2218/A%20-%20The%2067th%20Integer%20Problem/solution.cpp) |
 | 2249A | [Rank Subsequence](https://codeforces.com/contest/2249/problem/A) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2249/A%20-%20Rank%20Subsequence/solution.cpp) |
 
@@ -153,6 +156,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 2034B | [Rakhsh's Revival](https://codeforces.com/contest/2034/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2034/B%20-%20Rakhsh's%20Revival/solution.cpp) |
 | 2051D | [Counting Pairs](https://codeforces.com/contest/2051/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2051/D%20-%20Counting%20Pairs/solution.cpp) |
 | 2148E | [Split](https://codeforces.com/contest/2148/problem/E) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2148/E%20-%20Split/solution.cpp) |
 | 2253B | [Hypercarp and the Control Panel](https://codeforces.com/contest/2253/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2253/B%20-%20Hypercarp%20and%20the%20Control%20Panel/solution.cpp) |
