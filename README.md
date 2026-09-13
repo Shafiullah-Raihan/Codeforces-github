@@ -6,13 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 19 | 18 |
+| 20 | 19 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [2-sat](#2-sat) (1)
+- [Uncategorized](#uncategorized) (1)
 - [binary search](#binary-search) (3)
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (8)
@@ -38,6 +39,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2259E | [Treasure Map Destruction (Constructive Version)](https://codeforces.com/contest/2259/problem/E) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2259/E%20-%20Treasure%20Map%20Destruction%20(Constructive%20Version)/solution.cpp) |
+
+### Uncategorized
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2263A | [Min Max Game](https://codeforces.com/contest/2263/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2263/A%20-%20Min%20Max%20Game/solution.cpp) |
 
 ### binary search
 
