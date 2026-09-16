@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 22 | 19 |
+| 23 | 20 |
 
 ---
 
@@ -26,11 +26,12 @@
 - [games](#games) (1)
 - [greedy](#greedy) (8)
 - [implementation](#implementation) (6)
+- [interactive](#interactive) (1)
 - [math](#math) (9)
 - [number theory](#number-theory) (2)
 - [sortings](#sortings) (2)
-- [trees](#trees) (1)
-- [two pointers](#two-pointers) (4)
+- [trees](#trees) (2)
+- [two pointers](#two-pointers) (5)
 
 ---
 
@@ -148,6 +149,12 @@
 | 2249A | [Rank Subsequence](https://codeforces.com/contest/2249/problem/A) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2249/A%20-%20Rank%20Subsequence/solution.cpp) |
 | 2260A | [Monocarp's Contest](https://codeforces.com/contest/2260/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2260/A%20-%20Monocarp's%20Contest/solution.cpp) |
 
+### interactive
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2258C | [Far Cities](https://codeforces.com/contest/2258/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2258/C%20-%20Far%20Cities/solution.cpp) |
+
 ### math
 
 | # | Problem | Difficulty | Solution |
@@ -181,6 +188,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2238C | [Village Guilds](https://codeforces.com/contest/2238/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2238/C%20-%20Village%20Guilds/solution.cpp) |
+| 2258C | [Far Cities](https://codeforces.com/contest/2258/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2258/C%20-%20Far%20Cities/solution.cpp) |
 
 ### two pointers
 
@@ -190,6 +198,7 @@
 | 2051D | [Counting Pairs](https://codeforces.com/contest/2051/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2051/D%20-%20Counting%20Pairs/solution.cpp) |
 | 2148E | [Split](https://codeforces.com/contest/2148/problem/E) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2148/E%20-%20Split/solution.cpp) |
 | 2253B | [Hypercarp and the Control Panel](https://codeforces.com/contest/2253/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2253/B%20-%20Hypercarp%20and%20the%20Control%20Panel/solution.cpp) |
+| 2258C | [Far Cities](https://codeforces.com/contest/2258/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2258/C%20-%20Far%20Cities/solution.cpp) |
 
 ---
 
