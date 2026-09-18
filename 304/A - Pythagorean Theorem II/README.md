@@ -1,0 +1,17 @@
+<h2><a href="https://codeforces.com/contest/304/problem/A" target="_blank" rel="noopener noreferrer">304A — Pythagorean Theorem II</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 1200 |
+| **Language** | C++23 (GCC 14-64, msys2) |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 304A](https://codeforces.com/contest/304/problem/A) |
+
+## Topics
+`brute force` `math`
+
+---
+
+## Problem Statement
+
+<div class="lpdkQ3"><img src="/favicon.ico" class="uMaz2" alt="Icon for codeforces.com"><h1>codeforces.com</h1></div><h2 id="jddkS1" class="YNaX0">Performing security verification</h2><p id="QeINV1" class="nnhvx2">This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.</p><div id="lVJB5"></div><div id="CJPCL0" style="display: none;"><h2 id="zfpQF7" class="ndZkd3">Verification successful. Waiting for codeforces.com to respond</h2></div><div id="EaAgR8" class="Wivzc8 aLvno9" style="display: block; visibility: visible;"><div class="TighH9"><div></div><div></div><div></div><div></div></div></div><noscript><div class="h2"><span id="challenge-error-text">Enable JavaScript and cookies to continue</span></div></noscript>
