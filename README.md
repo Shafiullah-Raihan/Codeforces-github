@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 72 | 30 |
+| 73 | 30 |
 
 ---
 
@@ -15,7 +15,7 @@
 - [2-sat](#2-sat) (1)
 - [Uncategorized](#uncategorized) (2)
 - [binary search](#binary-search) (10)
-- [bitmasks](#bitmasks) (3)
+- [bitmasks](#bitmasks) (4)
 - [brute force](#brute-force) (18)
 - [combinatorics](#combinatorics) (2)
 - [constructive algorithms](#constructive-algorithms) (16)
@@ -29,7 +29,7 @@
 - [geometry](#geometry) (2)
 - [graph matchings](#graph-matchings) (1)
 - [graphs](#graphs) (5)
-- [greedy](#greedy) (25)
+- [greedy](#greedy) (26)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (15)
 - [math](#math) (25)
@@ -80,6 +80,7 @@
 | 16E | [Fish](https://codeforces.com/contest/16/problem/E) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/16/E%20-%20Fish/solution.cpp) |
 | 2020A | [Find Minimum Operations](https://codeforces.com/contest/2020/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2020/A%20-%20Find%20Minimum%20Operations/solution.cpp) |
 | 2020C | [Bitwise Balancing](https://codeforces.com/contest/2020/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2020/C%20-%20Bitwise%20Balancing/solution.cpp) |
+| 2247D1 | [XOR Sorting (Easy Version)](https://codeforces.com/contest/2247/problem/D1) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2247/D1%20-%20XOR%20Sorting%20(Easy%20Version)/solution.cpp) |
 
 ### brute force
 
@@ -243,6 +244,7 @@
 | 2216A | [Course Wishes](https://codeforces.com/contest/2216/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2216/A%20-%20Course%20Wishes/solution.cpp) |
 | 2226B | [Everything Everywhere](https://codeforces.com/contest/2226/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2226/B%20-%20Everything%20Everywhere/solution.cpp) |
 | 2229C1 | [We Be Flipping (Easy Version)](https://codeforces.com/contest/2229/problem/C1) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2229/C1%20-%20We%20Be%20Flipping%20(Easy%20Version)/solution.cpp) |
+| 2247D1 | [XOR Sorting (Easy Version)](https://codeforces.com/contest/2247/problem/D1) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2247/D1%20-%20XOR%20Sorting%20(Easy%20Version)/solution.cpp) |
 | 2252B | [Always Changing](https://codeforces.com/contest/2252/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2252/B%20-%20Always%20Changing/solution.cpp) |
 | 2252D | [Array Replacement](https://codeforces.com/contest/2252/problem/D) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2252/D%20-%20Array%20Replacement/solution.cpp) |
 | 2254C2 | [Marenol (hard version)](https://codeforces.com/contest/2254/problem/C2) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2254/C2%20-%20Marenol%20(hard%20version)/solution.cpp) |
