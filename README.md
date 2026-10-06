@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 75 | 30 |
+| 76 | 30 |
 
 ---
 
@@ -14,12 +14,12 @@
 
 - [2-sat](#2-sat) (1)
 - [Uncategorized](#uncategorized) (2)
-- [binary search](#binary-search) (10)
-- [bitmasks](#bitmasks) (4)
+- [binary search](#binary-search) (11)
+- [bitmasks](#bitmasks) (5)
 - [brute force](#brute-force) (18)
 - [combinatorics](#combinatorics) (2)
 - [constructive algorithms](#constructive-algorithms) (16)
-- [data structures](#data-structures) (7)
+- [data structures](#data-structures) (8)
 - [dfs and similar](#dfs-and-similar) (3)
 - [divide and conquer](#divide-and-conquer) (1)
 - [dp](#dp) (14)
@@ -29,10 +29,10 @@
 - [geometry](#geometry) (2)
 - [graph matchings](#graph-matchings) (1)
 - [graphs](#graphs) (5)
-- [greedy](#greedy) (28)
+- [greedy](#greedy) (29)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (15)
-- [math](#math) (26)
+- [math](#math) (27)
 - [number theory](#number-theory) (6)
 - [probabilities](#probabilities) (1)
 - [schedules](#schedules) (2)
@@ -41,7 +41,7 @@
 - [strings](#strings) (9)
 - [ternary search](#ternary-search) (1)
 - [trees](#trees) (3)
-- [two pointers](#two-pointers) (5)
+- [two pointers](#two-pointers) (6)
 
 ---
 
@@ -66,6 +66,7 @@
 | 91B | [Queue](https://codeforces.com/contest/91/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/91/B%20-%20Queue/solution.cpp) |
 | 274A | [k-Multiple Free Set](https://codeforces.com/contest/274/problem/A) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/274/A%20-%20k-Multiple%20Free%20Set/solution.cpp) |
 | 1845C | [Strong Password](https://codeforces.com/contest/1845/problem/C) | 1400 | [Python 3](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1845/C%20-%20Strong%20Password/solution.py) |
+| 1973B | [Cat, Fox and the Lonely Array](https://codeforces.com/contest/1973/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1973/B%20-%20Cat%2C%20Fox%20and%20the%20Lonely%20Array/solution.cpp) |
 | 1985F | [Final Boss](https://codeforces.com/contest/1985/problem/F) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1985/F%20-%20Final%20Boss/solution.cpp) |
 | 2072E | [Do You Love Your Hero and His Two-Hit Multi-Target Attacks?](https://codeforces.com/contest/2072/problem/E) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2072/E%20-%20Do%20You%20Love%20Your%20Hero%20and%20His%20Two-Hit%20Multi-Target%20Attacks%3F/solution.cpp) |
 | 2117D | [Retaliation](https://codeforces.com/contest/2117/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2117/D%20-%20Retaliation/solution.cpp) |
@@ -78,6 +79,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 16E | [Fish](https://codeforces.com/contest/16/problem/E) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/16/E%20-%20Fish/solution.cpp) |
+| 1973B | [Cat, Fox and the Lonely Array](https://codeforces.com/contest/1973/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1973/B%20-%20Cat%2C%20Fox%20and%20the%20Lonely%20Array/solution.cpp) |
 | 2020A | [Find Minimum Operations](https://codeforces.com/contest/2020/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2020/A%20-%20Find%20Minimum%20Operations/solution.cpp) |
 | 2020C | [Bitwise Balancing](https://codeforces.com/contest/2020/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2020/C%20-%20Bitwise%20Balancing/solution.cpp) |
 | 2247D1 | [XOR Sorting (Easy Version)](https://codeforces.com/contest/2247/problem/D1) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2247/D1%20-%20XOR%20Sorting%20(Easy%20Version)/solution.cpp) |
@@ -140,6 +142,7 @@
 | 5C | [Longest Regular Bracket Sequence](https://codeforces.com/contest/5/problem/C) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/5/C%20-%20Longest%20Regular%20Bracket%20Sequence/solution.cpp) |
 | 6E | [Exposition](https://codeforces.com/contest/6/problem/E) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/6/E%20-%20Exposition/solution.cpp) |
 | 91B | [Queue](https://codeforces.com/contest/91/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/91/B%20-%20Queue/solution.cpp) |
+| 1973B | [Cat, Fox and the Lonely Array](https://codeforces.com/contest/1973/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1973/B%20-%20Cat%2C%20Fox%20and%20the%20Lonely%20Array/solution.cpp) |
 | 1985F | [Final Boss](https://codeforces.com/contest/1985/problem/F) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1985/F%20-%20Final%20Boss/solution.cpp) |
 | 2148E | [Split](https://codeforces.com/contest/2148/problem/E) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2148/E%20-%20Split/solution.cpp) |
 | 2193C | [Replace and Sum](https://codeforces.com/contest/2193/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2193/C%20-%20Replace%20and%20Sum/solution.cpp) |
@@ -238,6 +241,7 @@
 | 1845C | [Strong Password](https://codeforces.com/contest/1845/problem/C) | 1400 | [Python 3](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1845/C%20-%20Strong%20Password/solution.py) |
 | 1861B | [Two Binary Strings](https://codeforces.com/contest/1861/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1861/B%20-%20Two%20Binary%20Strings/solution.cpp) |
 | 1948B | [Array Fix](https://codeforces.com/contest/1948/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1948/B%20-%20Array%20Fix/solution.cpp) |
+| 1973B | [Cat, Fox and the Lonely Array](https://codeforces.com/contest/1973/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1973/B%20-%20Cat%2C%20Fox%20and%20the%20Lonely%20Array/solution.cpp) |
 | 2020A | [Find Minimum Operations](https://codeforces.com/contest/2020/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2020/A%20-%20Find%20Minimum%20Operations/solution.cpp) |
 | 2072E | [Do You Love Your Hero and His Two-Hit Multi-Target Attacks?](https://codeforces.com/contest/2072/problem/E) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2072/E%20-%20Do%20You%20Love%20Your%20Hero%20and%20His%20Two-Hit%20Multi-Target%20Attacks%3F/solution.cpp) |
 | 2163B | [Siga ta Kymata](https://codeforces.com/contest/2163/problem/B) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2163/B%20-%20Siga%20ta%20Kymata/solution.cpp) |
@@ -290,6 +294,7 @@
 | 304A | [Pythagorean Theorem II](https://codeforces.com/contest/304/problem/A) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/304/A%20-%20Pythagorean%20Theorem%20II/solution.cpp) |
 | 1623A | [Robot Cleaner](https://codeforces.com/contest/1623/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1623/A%20-%20Robot%20Cleaner/solution.cpp) |
 | 1774B | [Coloring](https://codeforces.com/contest/1774/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1774/B%20-%20Coloring/solution.cpp) |
+| 1973B | [Cat, Fox and the Lonely Array](https://codeforces.com/contest/1973/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1973/B%20-%20Cat%2C%20Fox%20and%20the%20Lonely%20Array/solution.cpp) |
 | 1985E | [Secret Box](https://codeforces.com/contest/1985/problem/E) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1985/E%20-%20Secret%20Box/solution.cpp) |
 | 2020A | [Find Minimum Operations](https://codeforces.com/contest/2020/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2020/A%20-%20Find%20Minimum%20Operations/solution.cpp) |
 | 2020C | [Bitwise Balancing](https://codeforces.com/contest/2020/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2020/C%20-%20Bitwise%20Balancing/solution.cpp) |
@@ -391,6 +396,7 @@
 |---|---------|------------|----------|
 | 6E | [Exposition](https://codeforces.com/contest/6/problem/E) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/6/E%20-%20Exposition/solution.cpp) |
 | 14D | [Two Paths](https://codeforces.com/contest/14/problem/D) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/14/D%20-%20Two%20Paths/solution.cpp) |
+| 1973B | [Cat, Fox and the Lonely Array](https://codeforces.com/contest/1973/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/1973/B%20-%20Cat%2C%20Fox%20and%20the%20Lonely%20Array/solution.cpp) |
 | 2148E | [Split](https://codeforces.com/contest/2148/problem/E) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2148/E%20-%20Split/solution.cpp) |
 | 2253B | [Hypercarp and the Control Panel](https://codeforces.com/contest/2253/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2253/B%20-%20Hypercarp%20and%20the%20Control%20Panel/solution.cpp) |
 | 2254B | [Evanescent](https://codeforces.com/contest/2254/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2254/B%20-%20Evanescent/solution.cpp) |
