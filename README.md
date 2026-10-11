@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 78 | 30 |
+| 79 | 30 |
 
 ---
 
@@ -25,7 +25,7 @@
 - [dp](#dp) (15)
 - [dsu](#dsu) (2)
 - [expression parsing](#expression-parsing) (1)
-- [games](#games) (2)
+- [games](#games) (3)
 - [geometry](#geometry) (2)
 - [graph matchings](#graph-matchings) (1)
 - [graphs](#graphs) (5)
@@ -203,6 +203,7 @@
 |---|---------|------------|----------|
 | 2218A | [The 67th Integer Problem](https://codeforces.com/contest/2218/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2218/A%20-%20The%2067th%20Integer%20Problem/solution.cpp) |
 | 2236D | [Brand New Tatar TV Show](https://codeforces.com/contest/2236/problem/D) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2236/D%20-%20Brand%20New%20Tatar%20TV%20Show/solution.cpp) |
+| 2271B | [MEX Game](https://codeforces.com/contest/2271/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Shafiullah-Raihan/Codeforces-github/blob/HEAD/2271/B%20-%20MEX%20Game/solution.cpp) |
 
 ### geometry
 
